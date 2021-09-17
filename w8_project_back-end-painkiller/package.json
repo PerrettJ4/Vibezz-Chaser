@@ -1,0 +1,36 @@
+{
+  "name": "w8_project_back-end-painkiller",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "nodemon -r dotenv/config ./bin/www",
+    "dbcreateconcerttable": "node -r dotenv/config ./db/scripts/concert/createConcertTable.js",
+    "dbpopulateconcerttable": "node -r dotenv/config ./db/scripts/concert/populateConcertTable.js",
+    "dbdeleteconcerttable": "node -r dotenv/config ./db/scripts/concert/deleteConcertTable.js",
+    "dbresetconcerttable": "npm run dbdeleteconcerttable && npm run dbcreateconcerttable && npm run dbpopulateconcerttable",
+    "dbcreateflightstable": "node -r dotenv/config ./db/scripts/flights/createFlightsTable.js",
+    "dbpopulateflightstable": "node -r dotenv/config ./db/scripts/flights/populateFlightsTable.js",
+    "dbdeleteflightstable": "node -r dotenv/config ./db/scripts/flights/deleteFlightsTable.js",
+    "dbresetflightstable": "npm run dbdeleteflightstable && npm run dbcreateflightstable && npm run dbpopulateflightstable",
+    "dbcreateairlinetable": "node -r dotenv/config ./db/scripts/airline/createAirlineTable.js",
+    "dbpopulateairlinetable": "node -r dotenv/config ./db/scripts/airline/populateAirlineTable.js",
+    "dbdeleteairlinetable": "node -r dotenv/config ./db/scripts/airline/deleteAirlineTable.js",
+    "dbresetairlinetable": "npm run dbdeleteairlinetable && npm run dbcreateairlinetable && npm run dbpopulateairlinetable",
+    "dbcreateairporttable": "node -r dotenv/config ./db/scripts/airport/createAirportTable.js",
+    "dbpopulateairporttable": "node -r dotenv/config ./db/scripts/airport/populateAirportTable.js",
+    "dbdeleteairporttable": "node -r dotenv/config ./db/scripts/airport/deleteAirportTable.js",
+    "dbresetairporttable": "npm run dbdeleteairporttable && npm run dbcreateairporttable && npm run dbpopulateairporttable"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "dotenv": "^10.0.0",
+    "express": "~4.16.1",
+    "morgan": "~1.9.1",
+    "node-fetch": "^3.0.0",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}

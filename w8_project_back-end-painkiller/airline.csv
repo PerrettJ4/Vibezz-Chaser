@@ -1,0 +1,1336 @@
+IATA_CD,CARR_NAME,COUNTRY,STATE,CARGO_IND,IATA_IND,LOW_COST
+X7,Challenge Airlines,BE,,N,N,N
+9B,Accesrail Inc.,CA,QC,N,Y,N
+GZ,Air Rarotonga,CK,,N,Y,N
+8T,Air Tindi Ltd,CA,NT,N,Y,N
+J5,Alaska Seaplanes,US,AK,N,Y,N
+2V,Amtrak,US,DC,N,Y,N
+EV,"ExpressJet Airlines, Inc.",US,GA,N,Y,N
+2A,Deutsche Bahn AG,DE,,N,Y,N
+9F,Eurostar International,GB,,N,Y,N
+HR,Hahn Air,DE,,N,Y,N
+2O,Island Air Service,US,AK,N,Y,N
+QJ,Jet Airways Inc.,US,MA,N,Y,N
+4X,Mercury World Cargo,US,CA,N,Y,N
+HI,Papillon Airways,US,AZ,N,Y,N
+P1,PublicCharters.com,US,PA,N,Y,N
+2E,Smokey Bay Air,US,AK,N,Y,N
+CR,Prevalidate Test carrier Do not use,GB,,N,N,Y
+X4,"Air Excursions, LLC",US,AK,N,N,N
+Y6,AB Aviation,KM,,N,N,N
+Q9,Green Africa Airways Limited,NG,,N,N,N
+GD,Aviair,AU,WA,N,N,N
+SH,Sharp Airlines,AU,VI,N,N,N
+D3,Daallo Airlines,DJ,,N,Y,N
+XB,Forward Air,US,,N,N,N
+1X,Branson AirExpress,US,MT,N,N,N
+4T,Rise Air,CA,SK,N,N,N
+HS,Heli Securite Helicopter Airline,FR,,N,N,N
+L3,"DHL de Guatemala, S.A.",GT,,N,Y,N
+5I,Alsa Grupo Slu,ES,,N,N,N
+DG,Cebgo,PH,,N,Y,Y
+H1,Hahn Air Systems,DE,,N,N,N
+9T,ACT Airlines Inc,TR,,N,N,N
+3X,Premier Trans Aire,US,HI,N,Y,N
+BU,Compagnie Africaine d'Aviation,CD,,N,N,N
+CB,Trans Caribbean Air,US,FL,N,N,N
+NP,Nile Air,EG,,N,N,N
+GC,Global Feeder Services,US,NJ,N,N,N
+6V,AVANZA,ES,,N,N,N
+QM,Monacair,MC,,N,N,N
+BS,US-Bangla Airlines,BD,,N,N,N
+V6,VI Airlink,VG,,N,N,N
+UK,Vistara,IN,HR,N,N,Y
+4R,Renfe Viajeros,ES,,N,N,N
+FC,Link Airways,AU,AC,N,N,N
+W1,World Ticket Ltd,DK,,N,N,N
+FP,Flypelican,AU,NS,N,N,N
+S2,Serve Air S.A.R.L.,CG,,N,N,N
+3G,World Cargo Airlines,MY,,N,N,N
+E6,Bringer Air Cargo Taxi Aereo,BR,SP,N,N,N
+3A,Chu Kong Passenger Transport Co Ltd.,HK,,N,Y,N
+MC,Air Mobility Command,US,IL,N,N,N
+ZR,Aviacon Zitotrans Air Company,RU,,N,N,N
+YD,Synergy Aviation,GB,,N,N,N
+RH,Hong Kong Air Cargo Carrier Limited,HK,,N,N,N
+AO,Air Juan,PH,,N,N,N
+K2,Yute Commuter Service,US,AK,N,N,N
+A4,AZIMUTH Airlines,RU,,N,N,N
+FO,Flybondi,AR,BA,N,N,N
+4P,Regional Sky,US,PA,N,N,N
+RR,Buzz,PL,,N,N,Y
+R0,Tantalus Air,CA,BC,N,N,N
+VV,Viva Air Peru,PE,,N,N,Y
+HC,Air Senegal,SN,,N,N,N
+YH,Sunsplash Aviation LLC,US,FL,N,N,N
+TZ,Tsaradia,MG,,N,N,N
+HT,"Tianjin Air Cargo Co., Ltd",CN,,N,N,N
+7C8,Cargolux Italia S.p.A.,IT,,Y,N,N
+QD,JC (Cambodia) International Airlines,KH,,N,N,N
+7T,Trenitalia S.p.A.,IT,,N,N,N
+1L,CitizenPlane,FR,,N,N,Y
+ZU,Ethiopian Mozambique Airlines,MZ,,N,N,N
+ZB,Air Albania,AL,,N,N,N
+2H,Thalys International,BE,,N,Y,N
+8S,TurboJET,HK,,N,Y,N
+EX,Regional Express Americas SAS,CO,,N,N,N
+HG,Hibernian Airlines,IE,,N,N,Y
+LE,Norwegian Air Sweden AB,SE,,N,N,Y
+X1,Hahn Air Technologies,DE,,N,N,N
+WC,Meregrass,US,TX,N,N,N
+JA,Jetsmart,CL,,N,N,N
+VG,Vipper BV,NL,,N,N,N
+RK,Ryanair UK Ltd,GB,,N,N,Y
+NN,China Travel Tours Transp Services,HK,,N,N,N
+H8,Sky Airlines Peru S.A.C,PE,,N,N,N
+LZ,Air Link,AU,NS,N,N,N
+LL,China General Aviation LTD,CN,,N,N,N
+S8,Sounds Air,NZ,,N,N,N
+A1,A.P.G. Distribution Systems,FR,,N,N,N
+9A,Gran Colombia de Aviacion,CO,,N,N,N
+YB,Harbour Air Seaplanes,CA,BC,N,N,N
+JK,Aerolinea Del Caribe S.A.,CO,,N,N,N
+I9,China Central Airlines CO. Ltd.,CN,,N,N,N
+YF,Department of National Defence,CA,ON,N,N,N
+8A,Panama Airways,PA,,N,N,N
+HK,Skippers Aviation,AU,WA,N,N,N
+ZN,Zambia Airways,ZM,,N,N,N
+DU,Sky Jet M.G. Inc,CA,QC,N,N,N
+3Q,Royal Air Charters,ZM,,N,N,N
+L5,RED AIR SRL,DO,,N,N,N
+JN,Alaska Air Transit,US,AK,N,N,N
+L8,Lulutai Airlines Limited,TO,,N,N,N
+L4,The Landline Company,US,CA,N,N,N
+WM,WINAIR,SX,,N,Y,N
+EA,Atlantis-Air Link Ltd.,CA,ON,N,N,N
+GW,Costa Rica Green Airways,CR,,N,N,N
+S9,flybig,IN,HR,N,N,N
+TI,Tropic Ocean Airways,US,FL,N,N,N
+CO,North-Western Cargo International,CN,,N,N,N
+0C,Cobra Aviation (Pty) Ltd,ZA,,N,N,N
+RD,Sky Cana,DO,,N,N,N
+EG,Aer Lingus UK Limited,GB,,N,N,N
+I6,Intermodalidad de Levante S.A.,ES,,N,N,N
+RI,PT Rimbun Abadi Aviasi,ID,,N,N,N
+EQ,Fly Angola,AO,,N,N,N
+MW,Waltzing Matilda Aviation LLC,US,MA,N,N,N
+BD,Air Inter Transport Co. Ltd,TH,,N,N,N
+KR,Cambodia Airways Co. Ltd,KH,,N,N,N
+WE,Thai Smile Airways,TH,,N,N,Y
+IL,PT Trigana Air,ID,,N,N,N
+VJ,Vietjet,VN,,N,N,Y
+ZK,Aircompany ZetAvia,UA,,N,N,N
+GQ,Sky Express S.A.,GR,,N,N,N
+V7,Volotea,ES,,N,N,Y
+7I,Air Libya,LY,,N,N,N
+TV,Tibet Airlines,CN,,N,N,N
+AP,Alba Star,ES,,N,N,N
+C4,Conquest Air Inc.,US,FL,N,N,N
+PF,Air Sial,PK,,N,N,N
+F0,Fly Jordan,JO,,N,N,N
+H7,HiSky,MD,,N,N,N
+XR,Corendon Airlines Europe,MT,,N,N,N
+XO,SEAIR International,PH,,N,N,Y
+SI,Blue Islands,GB,,N,N,N
+XC,Corendon Airlines,TR,,N,N,N
+CE,Chalair,FR,,N,N,N
+CT,Alitalia CityLiner S.p.A.,IT,,N,N,N
+D0,DHL Air,GB,,N,N,N
+ZX,Pivot Airlines,CA,ON,N,N,N
+TB,TUI fly Belgium,BE,,N,N,N
+4L,Lineas Aereas Suramericanas,CO,,N,N,N
+YC,Yamal Airlines,RU,,N,N,N
+LM,Loganair,GB,,N,N,N
+7PE,Pacific Air Express,SB,,Y,N,N
+NI,Portugalia,PT,,N,N,N
+7P,Air Panama,PA,,N,N,N
+2Z,Passaredo,BR,SP,N,N,N
+FA,Safair,ZA,,N,N,N
+7O,Travel Service Hungary,HU,,N,N,N
+VI,Volga-Dnepr Airlines,RU,,N,N,N
+ZQ,German Airways GmbH & Co.KG,DE,,N,N,N
+WI,White Airways S.A.,PT,,N,N,N
+WU,Western Air,BS,,N,N,N
+DB,Maleth-Aero,MT,,N,N,N
+6N,Niger Airlines,NE,,N,N,N
+P9,Asia Pacific Airlines,GU,,N,N,N
+K8,InterJet West,US,OH,N,N,N
+VB,VivaAerobus,MX,,N,N,Y
+V4,Vieques Air Link,PR,,N,N,N
+5R,RUTACA,VE,,N,N,N
+Y9,Enerjet,CA,AB,N,N,N
+AA,American Airlines,US,TX,N,Y,N
+OZ,Asiana Airlines,KR,,N,Y,N
+8U,Afriqiyah Airways,LY,,N,Y,N
+G4,Allegiant Air LLC,US,CA,N,Y,Y
+GB,"ABX Air, Inc.",US,OH,N,Y,N
+G9,Air Arabia,AE,,N,Y,Y
+AC,Air Canada,CA,QC,N,Y,N
+78V,Astral Aviation,KE,,Y,Y,N
+HD,AirDo,JP,,N,Y,N
+UX,Air Europa,ES,,N,Y,N
+A3,Aegean Airlines,GR,,N,Y,N
+7KO,Alaska Central Express Inc,US,AK,Y,Y,N
+FG,Ariana Afghan Airlines,AF,,N,Y,N
+SU,Aeroflot Russian Airlines,RU,,N,Y,N
+AF,Air France,FR,,N,Y,N
+LD,AHK Air Hong Kong,HK,,N,Y,N
+J2,Azerbaijan Airlines,AZ,,N,Y,N
+AI,Air India,IN,,N,Y,N
+3H,Air Inuit,CA,QC,N,Y,N
+5A,Alpine Aviation Inc.,US,UT,N,Y,N
+FD,Thai AirAsia,TH,,N,Y,Y
+IZ,Arkia - Israeli Airlines,IL,,N,Y,N
+M6,"Amerijet International, Inc.",US,FL,N,Y,N
+NQ,Air Japan,JP,,N,Y,N
+EH,"ANA Wings Co., Ltd",JP,,N,Y,N
+UL,SriLankan Airlines,LK,,N,Y,N
+KM,Air Malta,MT,,N,Y,N
+NX,Air Macau,MO,,N,Y,N
+AM,Aeromexico,MX,,N,Y,N
+NH,All Nippon Airways,JP,,N,Y,N
+PX,Air Niugini,PG,,N,Y,N
+TL,Airnorth Regional,AU,NT,N,Y,N
+OY,Andes Lineas Aereas,AR,BA,N,Y,N
+4N,Air North,CA,YT,N,Y,N
+NZ,Air New Zealand,NZ,,N,Y,N
+W3,Arik Air,NG,,N,Y,N
+AR,Aerolineas Argentinas,AR,BA,N,Y,N
+AS,Alaska Airlines,US,AK,N,Y,N
+4D,Air Sinai,EG,,N,Y,N
+YV,Mesa Airlines,US,NM,N,Y,N
+TC,Air Tanzania,TZ,,N,Y,N
+OS,Austrian Airlines AG dba Austrian,AT,,N,Y,N
+PS,Ukraine International Airlines,UA,,N,Y,N
+5N,Smartavia,RU,,N,Y,N
+GR,Aurigny Air Services,GB,,N,Y,N
+AV,Avianca,CO,,N,Y,N
+NF,Air Vanuatu,VU,,N,Y,N
+ZW,Air Wisconsin,US,WI,N,Y,N
+QZ,Indonesia AirAsia,ID,,N,Y,Y
+7E,Sylt Air,DE,,N,Y,N
+IX,Air India Express,IN,MH,N,Y,Y
+XU,African Express Airways,KE,,N,Y,N
+AK,AirAsia,MY,,N,Y,Y
+NS,Hebei Airlines,CN,,N,Y,N
+AZ,Alitalia - Societa Aerea Italiana S.p.A,IT,,N,Y,N
+Z8,Amaszonas,BO,,N,Y,N
+UM,Air Zimbabwe,ZW,,N,Y,N
+BA,British Airways,GB,,N,Y,N
+BG,Biman Bangladesh Airlines,BD,,N,Y,N
+WX,City Jet,IE,,N,Y,N
+7BZ,Blue Dart Aviation Limited,IN,,Y,Y,N
+UP,Bahamasair,BS,,N,Y,N
+PG,Bangkok Airways,TH,,N,Y,N
+JV,Perimeter Aviation LP dba Bearskin A/L,CA,ON,N,Y,N
+CH,Bemidji Airlines,US,MN,N,Y,N
+BP,Air Botswana,BW,,N,Y,N
+BV,Blue Panorama Airlines,IT,,N,Y,N
+8E,Bering Air,US,AK,N,Y,N
+UZ,Buraq Air,LY,,N,Y,N
+B2,Belavia,BY,,N,Y,N
+BT,Air Baltic Corporation,LV,,N,Y,N
+J8,Berjaya Air,MY,,N,Y,N
+BW,Caribbean Airlines,TT,,N,Y,N
+CI,China Airlines,TW,,N,Y,N
+MO,Calm Air Intl Ltd,CA,MB,N,Y,N
+MN,Comair,ZA,,N,Y,N
+KX,Cayman Airways,KY,,N,Y,N
+CA,Air China,CN,,N,Y,N
+SC,Shandong Airlines,CN,,N,Y,N
+5J,Cebu Pacific Air,PH,,N,Y,Y
+C2,CEIBA Intercontinental,GQ,,N,Y,N
+MU,China Eastern Airlines,CN,,N,Y,N
+DE,Condor Flugdienst,DE,,N,Y,N
+HU,Hainan Airlines,CN,,N,Y,N
+NA,Nesma Airlines Company Ltd,SA,,N,N,N
+W8,Cargojet Airways Ltd.,CA,MB,N,Y,N
+CK,China Cargo Airlines,CN,,N,Y,N
+RP,BASe Airlines,HU,,N,N,N
+K4,Kalitta Air,US,MI,N,Y,N
+CL,Lufthansa Cityline Gmbh,DE,,N,Y,N
+CV,Cargolux Airlines International,LU,,N,Y,N
+CM,COPA Airlines,PA,,N,Y,N
+OH,"PSA Airlines, Inc.",US,OH,N,Y,N
+77C,Coyne Airways,GB,,Y,Y,N
+77C,Coyne Airways,GB,,Y,Y,N
+CX,Cathay Pacific Airways,HK,,N,Y,N
+9Q,Caicos Express Airways,TC,,N,N,N
+9C,Spring Airlines,CN,,N,Y,Y
+HX,Hong Kong Airlines,HK,,N,Y,N
+SS,Corsair,FR,,N,Y,N
+YN,Air Creebec (1994) Inc.,CA,QC,N,Y,N
+OK,Czech Airlines,CZ,,N,Y,N
+3U,Sichuan Airlines,CN,,N,Y,N
+FM,Shanghai Airlines,CN,,N,Y,N
+ZH,Shenzhen Airlines,CN,,N,Y,N
+OU,Croatia Airlines,HR,,N,Y,N
+KN,China United Airlines,CN,,N,Y,Y
+CU,Cubana de Aviacion S.A,CU,,N,Y,N
+3C,Air Chathams,NZ,,N,Y,N
+MF,Xiamen Airlines Company,CN,,N,Y,N
+XP,Avelo Airways,US,NV,N,Y,N
+CF,China Postal Airlines,CN,,N,Y,N
+D5,Dhl Aero Expreso S.A.,PA,,N,Y,N
+AH,Air Algerie,DZ,,N,Y,N
+DL,Delta Air Lines,US,GA,N,Y,N
+SN,Brussels Airlines,BE,,N,Y,N
+JD,Beijing Capital Airlines,CN,,N,Y,N
+EM,Empire Airlines,US,ID,N,N,N
+HO,Juneyao Airlines,CN,,N,Y,N
+EN,Air Dolomiti S.p.A L.A.R.E,IT,,N,Y,N
+Q2,Maldivian,MV,,N,Y,N
+KB,Royal Bhutan Airlines,BT,,N,Y,N
+DT,TAAG Angola Airlines,AO,,N,Y,N
+DX,DAT,DK,,N,Y,N
+WK,Edelweiss Air,CH,,N,Y,N
+MQ,Envoy Air Inc,US,TX,N,Y,N
+EI,Aer Lingus,IE,,N,Y,N
+LY,El Al Israel Airlines,IL,,N,Y,N
+B8,Eritrean Airlines,ER,,N,Y,N
+EY,Etihad Airways,AE,,N,Y,N
+ET,Ethiopian Airlines,ET,,N,Y,N
+BR,EVA Airways,TW,,N,Y,N
+EW,Eurowings,DE,,N,Y,Y
+LS,Jet2.com,GB,,N,Y,Y
+B5,East African Safari Air Express,KE,,N,Y,N
+T3,Eastern Airways,GB,,N,Y,N
+DS,easyjet Switzerland SA,CH,,N,Y,Y
+U2,easyJet,GB,,N,Y,Y
+7F,First Air,CA,ON,N,Y,N
+FY,Firefly,MY,,N,Y,N
+F9,Frontier Airlines Inc.,US,CO,N,Y,Y
+5H,Five Forty Aviation,KE,,N,Y,Y
+AY,Finnair,FI,,N,Y,N
+FJ,Fiji Airways,FJ,,N,Y,N
+5M,FlyMontserrat,MS,,N,N,N
+9E,Endeavor Air,US,TN,N,Y,N
+RC,Atlantic Airways Faroe Islands,FO,,N,Y,N
+5O,ASL Airlines France,FR,,N,Y,N
+TX,Air Caraibes,GP,,N,Y,N
+3M,SILVER AIRWAYS LLC,US,FL,N,Y,N
+2P,PAL Express,PH,,N,Y,N
+GS,TianJin Airlines,CN,,N,Y,N
+CN,Grand China Air,CN,,N,Y,N
+GF,Gulf Air,BH,,N,Y,N
+GA,Garuda Indonesia,ID,,N,Y,N
+G7,GoJet Airlines,US,MO,N,Y,N
+2K,AVIANCA-Ecuador,EC,,N,Y,N
+9M,Central Mountain Air Ltd.,CA,BC,N,Y,N
+G8,Go Air,IN,,N,Y,Y
+GL,Air Greenland,GL,,N,Y,N
+5Y,Atlas Air,US,NY,N,Y,N
+GU,Aviateca,GT,,N,Y,N
+GV,"Grant Aviation, Inc.",US,AK,N,Y,N
+3S,Air Antilles,GF,,N,Y,N
+4U,germanwings,DE,,N,Y,Y
+4G,Gazpromavia,RU,,N,Y,N
+H6,Hageland Aviation Services Inc,US,AK,N,Y,N
+HA,Hawaiian Airlines,US,HI,N,Y,N
+UO,HK Express,HK,,N,Y,Y
+X3,TUIfly,DE,,N,Y,N
+VN,Vietnam Airlines,VN,,N,Y,N
+G5,China Express Airlines,CN,,N,Y,N
+V8,Iliamna Air Taxi,US,AK,N,Y,N
+NT,Binter Canarias,ES,,N,Y,N
+IB,Iberia,ES,,N,Y,N
+FW,IBEX Airlines,JP,,N,Y,N
+FI,Icelandair,IS,,N,Y,N
+75C,C.A.L. Cargo Airlines,IL,,Y,Y,N
+6E,IndiGo,IN,,N,Y,Y
+IR,Iran Air,IR,,N,Y,N
+B9,Iran Airtour Airlines,IR,,N,Y,N
+EP,Iran Aseman Airlines,IR,,N,Y,N
+W5,Mahan Air,IR,,N,Y,N
+6H,Israir,IL,,N,Y,N
+JY,Intercaribbean Airways Ltd,TC,,N,Y,N
+IY,Yemenia Yemen Airways,YE,,N,Y,N
+JL,Japan Airlines,JP,,N,Y,N
+3Z,Smartwings Poland Sp. z o.o.,PL,,N,N,N
+B6,Jetblue Airways Corporation,US,CT,N,Y,Y
+7C,Jeju Airlines,KR,,N,Y,Y
+T6,AirSWIFT,PH,,N,N,N
+3K,Jetstar Asia,SG,,N,Y,Y
+JQ,Jetstar Airways,AU,VI,N,Y,Y
+NU,Japan Transocean Air,JP,,N,Y,N
+QK,Air Canada Jazz,CA,NS,N,Y,N
+J9,Jazeera Airways,KW,,N,Y,N
+KU,Kuwait Airways,KW,,N,Y,N
+KE,Korean Air,KR,,N,Y,N
+9K,Cape Air,US,MA,N,Y,N
+M5,Kenmore Air,US,WA,N,Y,N
+RE,Stobart Air,IE,,N,Y,N
+WA,KLM Cityhopper,NL,,N,Y,N
+KL,KLM-Royal Dutch Airlines,NL,,N,Y,N
+RQ,Kam Air,AF,,N,Y,N
+8K,K-Mile Air Co,TH,,N,Y,N
+JS,Air Koryo,KP,,N,Y,N
+KQ,Kenya Airways,KE,,N,Y,N
+V3,Carpatair,RO,,N,Y,N
+KC,Air Astana,KZ,,N,Y,N
+LN,Libyan Airlines,LY,,N,Y,N
+TM,LAM-Linhas Aereas de Mocambique,MZ,,N,Y,N
+LA,LATAM Airlines Group,CL,,N,Y,N
+QV,Lao Airlines,LA,,N,Y,N
+PZ,LATAM Airlines Paraguay,PY,,N,Y,N
+BJ,Nouvelair,TN,,N,Y,N
+UC,LATAM Cargo Chile,CL,,N,Y,N
+QL,LASER Airlines,VE,,N,Y,N
+LG,Luxair,LU,,N,Y,N
+0B,Blue Air,RO,,N,Y,Y
+4Z,South African Airlink,ZA,,N,Y,N
+AX,Trans States Airlines,US,MO,N,Y,N
+LO,LOT - Polish Airlines,PL,,N,Y,N
+LP,LATAM Airlines Peru,PE,,N,Y,N
+LR,Avianca Costa Rica S.A.,CR,,N,Y,N
+RZ,SANSA Airlines,CR,,N,Y,N
+YX,Republic Airways,US,IN,N,Y,N
+L2,Lynden Air Cargo,US,AK,N,Y,N
+MH,Malaysia Airlines,MY,,N,Y,N
+MK,Air Mauritius,MU,,N,Y,N
+YO,Heli Air Monaco,MC,,N,Y,N
+AE,Mandarin Airlines,TW,,N,Y,N
+MD,Air Madagascar,MG,,N,Y,N
+ME,Middle East Airlines,LB,,N,Y,N
+OM,MIAT - Mongolian Airlines,MN,,N,Y,N
+Q5,40 Mile Air,US,AK,N,Y,N
+9U,Air Moldova,MD,,N,Y,N
+8M,Myanmar Airways International,MM,,N,Y,N
+MB,MNG Airlines Cargo,TR,,N,Y,N
+JE,Mango,ZA,,N,Y,Y
+SG,SpiceJet,IN,,N,Y,Y
+5T,Canadian North,CA,NT,N,Y,N
+MP,Martinair Holland,NL,,N,Y,N
+M9,Motor Sich PJSC,UA,,N,Y,N
+MS,Egyptair,EG,,N,Y,N
+NC,"Northern Air Cargo, Inc.",US,AK,N,Y,N
+DY,Norwegian Air Shuttle,NO,,N,Y,Y
+KZ,Nippon Cargo Airlines,JP,,N,Y,N
+NK,Spirit Airlines,US,MI,N,Y,Y
+DD,Nok Air,TH,,N,Y,Y
+9R,Satena,CO,,N,Y,N
+S0,AeroLineas Sosa,HN,,N,Y,N
+HW,North-Wright Airways Ltd.,CA,NT,N,Y,N
+2L,Helvetic Airways,CH,,N,Y,N
+BK,Okay Airways,CN,,N,Y,N
+PO,Polar Air Cargo,US,CA,N,Y,N
+PR,Philippine Airlines,PH,,N,Y,N
+OL,Samoa Airways,WS,,N,Y,N
+8P,Pacific Coastal Airlines Limited,CA,BC,N,Y,N
+P0,Proflight Zambia,ZM,,N,Y,N
+PC,Pegasus Airlines,TR,,N,Y,Y
+PK,Pakistan International Airlines,PK,,N,Y,N
+BL,Pacific Airlines,VN,,N,Y,Y
+FV,Rossiya Airlines,RU,,N,Y,N
+EB,Wamos Air S.A.,ES,,N,Y,N
+J3,Northwestern Air Lease Ltd.,CA,NT,N,Y,N
+PD,Porter Airlines Inc.,CA,ON,N,Y,N
+PW,Precision Air Services Plc,TZ,,N,Y,N
+QF,Qantas Airways,AU,NS,N,Y,N
+QR,Qatar Airways,QA,,N,Y,N
+QX,Horizon Air,US,WA,N,Y,N
+AT,Royal Air Maroc,MA,,N,Y,N
+BI,Royal Brunei Airlines,BN,,N,Y,N
+3N,Air Urga,UA,,N,N,N
+UU,Air Austral,RE,,N,Y,N
+RJ,Royal Jordanian,JO,,N,Y,N
+A5,HOP!,FR,,N,Y,N
+RA,Nepal Airlines Corporation,NP,,N,Y,N
+9V,Avior Airlines,VE,,N,Y,N
+ON,Nauru Airlines,NR,,N,Y,N
+RO,Tarom,RO,,N,Y,N
+P5,Aero Republica,CO,,N,Y,N
+WB,RwandAir,RW,,N,Y,N
+7S,Ryan Air,US,AK,N,Y,N
+FR,Ryanair,IE,,N,Y,Y
+S4,SATA International-Azores Airlines S.A.,PT,,N,Y,N
+SA,South African Airways,ZA,,N,Y,N
+SK,SAS Scandinavian Airlines,SE,,N,Y,N
+SP,SATA Air Acores,PT,,N,Y,N
+S7,S7 Airlines,RU,,N,Y,N
+BB,Seaborne Airlines,VI,,N,Y,N
+PV,Saint Barth Commuter,GP,,N,Y,N
+TF,Braathens Regional Aviation,SE,,N,Y,N
+SY,Sun Country Airlines,US,MN,N,Y,Y
+HM,Air Seychelles,SC,,N,Y,N
+7G,Star Flyer,JP,,N,Y,N
+HZ,JSC Aurora Airlines,RU,,N,Y,N
+SQ,Singapore Airlines,SG,,N,Y,N
+SJ,Sriwijaya Air,ID,,N,Y,N
+OO,SkyWest Airlines,US,UT,N,Y,N
+BC,Skymark Airlines,JP,,N,Y,Y
+MI,SilkAir,SG,,N,Y,N
+PY,Surinam Airways,SR,,N,Y,N
+PL,Southern Air Charter,BS,,N,Y,N
+IE,Solomon Airlines Limited,SB,,N,Y,N
+PJ,Air Saint-Pierre,PM,,N,Y,N
+2I,Star Peru,PE,,N,Y,Y
+D2,Severstal Aircompany,RU,,N,Y,N
+8F,STP Airways,ST,,N,Y,N
+SD,Sudan Airways,SD,,N,Y,N
+EZ,Sun Air Of Scandinavia,DK,,N,Y,N
+SV,Saudi Arabian Airlines,SA,,N,Y,N
+U6,Ural Airlines,RU,,N,Y,N
+WN,Southwest Airlines,US,TX,N,Y,Y
+WG,Sunwing Airlines Inc.,CA,ON,N,Y,N
+LX,SWISS,CH,,N,Y,N
+XQ,SunExpress,TR,,N,Y,Y
+R3,Yakutia,RU,,N,Y,N
+RB,Syrian Arab Airlines,SY,,N,Y,N
+TA,Taca International Airlines,SV,,N,Y,N
+JJ,LATAM Airlines Brasil,BR,SP,N,Y,N
+B4,ZanAir,TZ,,N,Y,N
+VW,Transportes Aeromar S.A. de C.V.,MX,,N,Y,N
+TP,TAP Air Portugal,PT,,N,Y,N
+TU,Tunisair,TN,,N,Y,N
+3V,ASL Airlines Belgium,BE,,N,Y,N
+VR,TACV Cabo Verde Airlines,CV,,N,Y,N
+OR,TUI fly Netherlands,NL,,N,Y,N
+TR,Scoot,SG,,N,Y,Y
+A9,Georgian Airways,GE,,N,Y,N
+TG,Thai Airways International,TH,,N,Y,N
+TN,Air Tahiti Nui,PF,,N,Y,N
+TK,Turkish Airlines,TR,,N,Y,N
+7J,Tajik Air,TJ,,N,Y,N
+T7,Twin Jet,FR,,N,Y,N
+76R,Aerounion,MX,,Y,Y,N
+Z3,Tanana Air Service,US,AK,N,Y,N
+CG,PNG Air Limited,PG,,N,Y,N
+TY,Air Caledonie,NC,,N,Y,N
+K3,Taquan Air,US,AK,N,Y,N
+HV,transavia.com,NL,,N,Y,Y
+TS,Air Transat A.T.Inc.,CA,QC,N,Y,N
+TH,Raya Airways,MY,,N,Y,N
+T5,Turkmenistan Airlines,TM,,N,Y,N
+QS,Smartwings,CZ,,N,Y,N
+EK,Emirates,AE,,N,Y,N
+UA,United Airlines,US,IL,N,Y,N
+C5,CommutAir,US,NY,N,Y,N
+EU,Chengdu Airlines,CN,,N,Y,N
+B7,UNI Airways,TW,,N,Y,N
+5X,United Parcel Service Co.,US,KY,N,Y,N
+UT,UTair Aviation,RU,,N,Y,N
+HY,Uzbekistan Airways,UZ,,N,Y,N
+2J,Air Burkina,BF,,N,Y,N
+V0,Conviasa,VE,,N,Y,N
+7V4,"Vensecar Internacional, C.A.",VE,,Y,Y,N
+0V,Vietnam Air Service Company,VN,,N,Y,N
+VS,Virgin Atlantic Airways,GB,,N,Y,N
+VY,Vueling Airlines,ES,,N,Y,Y
+Y4,Volaris,MX,,N,Y,Y
+DV,Air Company Scat,KZ,,N,Y,N
+VT,Air Tahiti,PF,,N,Y,N
+5V,Everts Air,US,AK,N,Y,N
+4W,Warbelow's Air Ventures Inc.,US,AK,N,Y,N
+WF,Wideroe's Flyveselskap,NO,,N,Y,N
+WS,WestJet,CA,AB,N,Y,N
+IW,Wings Air,ID,,N,Y,N
+8V,Wright Air Service,US,AK,N,Y,N
+W6,Wizz Air,HU,,N,Y,Y
+P2,AirKenya Express,KE,,N,Y,N
+Y8,Suparna Airlines Co,CN,,N,Y,N
+P8,Sprintair,PL,,N,N,N
+5D,Aeromexico Connect,MX,,N,Y,N
+NY,Air Iceland Connect,IS,,N,Y,N
+LH,Deutsche Lufthansa AG,DE,,N,Y,N
+IN,NAM Air,ID,,N,N,N
+A7,Calafia Airlines,MX,,N,N,N
+P4,Air Peace,NG,,N,N,N
+IU,PT. Super Air Jet,ID,,N,N,N
+2F,Two Taxi Aereo Ltda,BR,SP,N,N,N
+9H,Changan Airlines,CN,,N,N,N
+LT,LongJiang Airlines,CN,,N,N,N
+OQ,Chongqing Airlines,CN,,N,Y,N
+GT,Air Guilin Co. Ltd,CN,,N,N,N
+6J,Solaseed,JP,,N,N,Y
+8Z,Congo Airways,CD,,N,N,N
+P6,Pascan Aviation Inc.,CA,QC,N,N,N
+RY,Jiangxi Air,CN,,N,N,N
+IT,Tigerair Taiwan Co. Ltd,TW,,N,N,Y
+MX,Breeze Airways,US,UT,N,N,N
+FE,Fly 748,KE,,N,N,N
+OG,Fly Play,IS,,N,N,Y
+FL,Air Leap,SE,,N,N,N
+XK,Air Corsica,FR,,N,Y,N
+5L,Transportes Aereos Costarricenses,CR,,N,N,N
+7B,Bees Airline,UA,,N,N,Y
+BX,Air Busan,KR,,N,N,N
+0J,Premium Jet AG,CH,,N,N,N
+6O,Orbest,PT,,N,N,N
+M7,Mas Air,MX,,N,N,N
+N7,Nordic Regional Airlines,FI,,N,N,N
+YT,Yeti Airlines,NP,,N,N,N
+TJ,Tradewind Aviation,US,CT,N,N,N
+5S,Global Aviation and Service Group,LY,,N,N,N
+D9,Daallo Airlines(Somalia),SO,,N,N,N
+FS,Flyr,NO,,N,N,N
+HJ,Tasman Cargo Airlines Pty Ltd,AU,NS,N,Y,N
+H4,HiSky Europe SRL,RO,,N,N,N
+4S,Solar Cargo,VE,,N,N,N
+W2,FlexFlight ApS,DK,,N,N,N
+UB,Myanmar National Airlines,MM,,N,N,N
+YK,Avia Traffic Company,KG,,N,N,N
+OX,"One Airways, S.A.U",ES,,N,N,N
+X9,Avion Express,LT,,N,N,N
+KO,Komiaviatrans,RU,,N,N,N
+IM,LLP Air Company Jupiter Jet,KZ,,N,N,N
+KH,Aloha Air Cargo,US,HI,N,N,N
+JH,Fuji Dream Airlines,JP,,N,N,N
+FN,Fastjet Zimbabwe,ZW,,N,N,Y
+ND,Nordica,EE,,N,N,N
+QT,Tampa Cargo S.A.S,CO,,N,Y,N
+D7,AirAsia X,MY,,N,Y,Y
+BO,Bluebird Cargo,IS,,N,Y,N
+LJ,Jin Air,KR,,N,N,Y
+KY,Kunming Airlines,CN,,N,N,N
+3O,Air Arabia Maroc,MA,,N,N,Y
+2M,Maya Island Air,BZ,,N,N,N
+SZ,Somon Air,TJ,,N,N,N
+PP,Jet Aviation Business Jets AG,CH,,N,N,N
+UJ,Al Masria Universal Airlines,EG,,N,N,N
+3T,Tarco Aviation,SD,,N,N,N
+QQ,Alliance Airlines,AU,QL,N,Y,N
+PN,West Air,CN,,N,Y,N
+LU,LanExpress,CL,,N,Y,N
+FZ,flydubai,AE,,N,N,Y
+Y7,NordStar,RU,,N,N,N
+XY,FLYNAS,SA,,N,N,Y
+R6,DAT LT,LT,,N,N,N
+VA,Virgin Australia International,AU,QL,N,Y,Y
+FX,Fedex,US,TN,N,Y,N
+PA,Airblue,PK,,N,N,N
+YQ,TAR Aerolineas,MX,,N,N,N
+6L,CargoLogic Germany GmbH,DE,,N,N,N
+8H,BH Air Ltd,BG,,N,N,N
+E5,Air Arabia Egypt,EG,,N,N,Y
+O3,SF Airlines,CN,,N,N,N
+M0,Aero Mongolia,MN,,N,N,N
+7ZP,Silk Way Airlines,AZ,,Y,Y,N
+L6,Mauritanian Airlines International,MR,,N,N,N
+7R,Joint Stock Aviation Company RusLine,RU,,N,N,N
+U8,TUS Airways,CY,,N,N,N
+G2,Gullivair,BG,,N,N,N
+XE,JSX,US,SD,N,N,N
+L7,LATAM Cargo Colombia,CO,,N,N,N
+8L,Lucky Air Co. Ltd.,CN,,N,N,N
+J4,Badr Airlines,SD,,N,N,N
+F8,Flair Airlines,CA,BC,N,N,Y
+J6,Seawings,AE,,N,N,N
+2Q,Air Cargo Carriers,US,WI,N,N,N
+F2,SafariLink,KE,,N,N,N
+H2,Sky Airline,CL,,N,Y,Y
+CJ,BA Cityflyer,GB,,N,Y,N
+CZ,China Southern Airlines,CN,,N,Y,N
+6D,Smartwings Slovakia s.r.o,SK,,N,N,N
+PE,People's,AT,,N,N,N
+I8,Izhavia,RU,,N,N,N
+IK,Air Kiribati,KI,,N,N,N
+AW,Africa World Airlines Limited,GH,,N,N,N
+8Q,Onur Air Tasimacilik A.S.,TR,,N,N,Y
+TE,SkyTaxi,PL,,N,N,N
+K7,Air KBZ,MM,,N,N,N
+NE,Nesma Airlines,EG,,N,N,N
+Q3,Anguilla Air Services,AI,,N,N,N
+2G,Angara Airlines,RU,,N,N,N
+QB,Faraz Qeshm Airline,IR,,N,Y,N
+ES,Estelar Latinoamerica C.A.,VE,,N,N,N
+MM,Peach Aviation Limited,JP,,N,N,Y
+IO,IrAero,RU,,N,N,N
+3J,Jubba Airways Ltd,KE,,N,N,N
+VP,Flyme,MV,,N,N,N
+AD,Azul Airlines,BR,SP,N,N,Y
+JT,Lion Air,ID,,N,Y,Y
+V9,Citywing,GB,,N,Y,N
+RG,Rotanajet Aviation,AE,,N,N,N
+TW,T'way Air,KR,,N,N,Y
+4M,LATAM Airlines Argentina,AR,BA,N,Y,N
+5K,Hi Fly Transportes Aereos,PT,,N,N,N
+TO,Transavia.com France,FR,,N,Y,Y
+XL,LATAM Airlines Ecuador,EC,,N,Y,N
+4C,LATAM Airlines Colombia,CO,,N,N,N
+WT,Swiftair,ES,,N,N,N
+LF,Contour Airlines,US,TN,N,N,N
+X5,Air Europa Express,ES,,N,N,N
+NO,Neos Air,IT,,N,N,N
+FB,Bulgaria Air,BG,,N,Y,N
+E7,Equaflight,CD,,N,N,N
+MY,MASWings,MY,,N,N,N
+QA,Queen Bilqis Airways,YE,,N,N,N
+ED,Air Explore,SK,,N,N,N
+C7,Cinnamon Air,LK,,N,N,N
+6I,Air Alsie,DK,,N,N,N
+UI,Auric Air,TZ,,N,N,N
+PT,Piedmont Airlines Inc.,US,,N,N,N
+B3,Bhutan Airlines,BT,,N,N,N
+IA,Iraqi Airways,IQ,,N,N,N
+O2,Linear Air,US,NY,N,N,N
+E9,Iberojet Airlines,ES,,N,N,N
+YU,Euroatlantic Airways,PT,,N,N,N
+ZF,AZUR air,RU,,N,N,N
+5Z,Cemair,ZA,,N,N,N
+UG,TunisAir Express,TN,,N,Y,N
+7.00E+07,Estafeta Carga Aerea,MX,,Y,Y,N
+F4,Air Flamenco,PR,,N,N,N
+N9,Shree Airlines,NP,,N,N,N
+X8,AirMax Cargo S.A,PE,,N,N,N
+OA,Olympic Air,GR,,N,N,N
+3E,"Multi-Aero, Inc. d/b/a Air Choice One",US,MO,N,N,N
+PB,PAL Airlines,CA,NL,N,Y,N
+RU,AirBridgeCargo,RU,,N,Y,N
+4E,Stabo Air,ZM,,N,N,N
+9I,Alliance Air,IN,,N,N,N
+GJ,Zhejiang Loong Airlines Co. Ltd,CN,,N,N,N
+OI,Hinterland Aviation,AU,QL,N,N,N
+9D,Genghis Khan Airlines,CN,,N,N,N
+MT,Malta MedAir,MT,,N,N,N
+7L,Silk Way West Airlines,AZ,,N,N,N
+77T,Trans Am Aero Exp. del Ecuador Cia.Ltda,EC,,Y,Y,N
+7U,"Commercial Aviation Services, LLC",US,PA,N,N,N
+7W,Wind Rose Aviation,UA,,N,N,N
+8N,Regional Air Services,TZ,,N,N,N
+9J,Dana Air,NG,,N,N,N
+9N,Tropic Air,BZ,,N,N,N
+A8,Aerolink Uganda Ltd,UG,,N,N,N
+AG,Aruba Airlines,AW,,N,N,N
+DZ,Donghai Airlines,CN,,N,N,N
+HF,Air Cote d'Ivoire,CI,,N,N,N
+I4,Scott Air LLC,US,AK,N,N,N
+JR,Joy Air,CN,,N,N,N
+KP,ASKY Airlines,TG,,N,N,N
+MR,Hunnu Air,MN,,N,N,N
+OB,Boliviana de Aviacion - BoA,BO,,N,N,N
+PM,Canaryfly,ES,,N,N,N
+QG,Citilink,ID,,N,N,Y
+QW,"Qingdao Airline Co, Ltd",CN,,N,N,N
+QY,European Air Transport Leipzig GmbH,DE,,N,Y,N
+IQ,Qazaq Air,KZ,,N,N,N
+S6,Sunrise Airways,HT,,N,N,N
+SL,Thai Lion Air,TH,,N,N,Y
+SM,Air Cairo,EG,,N,N,N
+UW,Uni-top Airlines,CN,,N,N,N
+VQ,NovoAir,BD,,N,N,N
+Y5,Golden Myanmar Airlines,MM,,N,N,N
+YE,Yanair,UA,,N,N,N
+YW,Air Nostrum,ES,,N,Y,N
+ZA,Sky Angkor Airlines,KH,,N,N,N
+ZD,EWA Air,YT,,N,N,N
+ZM,Air Manas,KG,,N,N,Y
+73S,Aerologic GmbH,DE,,Y,N,N
+KJ,Air Incheon,KR,,N,N,N
+B0,La Compagnie,FR,,N,N,N
+PI,Polar Airlines Ltd,RU,,N,N,N
+6Y,SMARTLYNX AIRLINES Ltd,LV,,N,Y,N
+N8,National Airlines,US,FL,N,Y,N
+OC,"Oriental Air Bridge Co., Ltd. (ORC)",JP,,N,N,N
+WY,Oman Air,OM,,N,Y,N
+7V,Federal Airlines (Pty) Ltd,ZA,,N,Y,N
+Z2,Philippines AirAsia Inc.,PH,,N,N,Y
+K6,Cambodia Angkor Air,KH,,N,N,N
+G3,GOL Linhas Aereas S.A.,BR,RJ,N,Y,Y
+C3,Trade Air Ltd,HR,,N,Y,N
+FH,Freebird Airlines,TR,,N,N,N
+U3,Sky Gates Airlines,RU,,N,N,N
+UQ,Urumqi Airlines,CN,,N,N,N
+7K3,SAC (K) Limited,KE,,Y,N,N
+HP,Amapola Flyg AB,SE,,N,N,N
+SF,Tassili Airlines,DZ,,N,N,N
+JC,Japan Air Commuter,JP,,N,N,N
+74W,Allied Air Cargo,NG,,Y,N,N
+E8,Tayaran Jet,BG,,N,N,N
+FU,"Fuzhou Airlines Co., Ltd",CN,,N,N,N
+5B,Bassaka Air,KH,,N,N,N
+VH,Viva Air Colombia,CO,,N,N,Y
+RV,Air Canada Rouge,CA,QC,N,N,Y
+AJ,Aztec Airways,US,FL,N,N,N
+VC,ViaAir,US,FL,N,N,Y
+GK,Jetstar Japan,JP,,N,N,Y
+OD,Malindo Airways,MY,,N,N,N
+GP,APG Airlines,FR,,N,N,N
+DK,Sunclass Airlines,DK,,N,N,N
+2D,"Eastern Airlines, LLC",US,NC,N,N,N
+ST,Air Thanlwin,MM,,N,N,N
+3R,Divi Divi Air,CW,,N,N,N
+GG,Skylease,US,NC,N,N,N
+CS,Comlux Aruba NV,AW,,N,N,N
+WR,Westjet Encore,CA,AB,N,N,N
+V5,Aerovias DAP S.A.,CL,,N,N,N
+D8,Norwegian,IE,,N,N,Y
+NR,Manta Air,MV,,N,N,N
+8B,TransNusa,ID,,N,N,N
+AL,Malta Air,MT,,N,N,Y
+VZ,Thai Vietjet Air,TH,,N,N,Y
+UE,BizAir op by Ultimate JetCharters LLC,US,IL,N,N,N
+YL,Libyan Wings,LY,,N,N,N
+W9,Wizz Air UK,GB,,N,N,Y
+FK,KF Cargo,CA,BC,N,N,N
+6Q,Cham Wings Airlines,SY,,N,N,N
+8J,Ecojet,BO,,N,N,N
+3W,Malawian Airlines,MW,,N,N,N
+4B,Boutique Air,US,CA,N,N,N
+6R,ALROSA Air Company,RU,,N,N,N
+7H,Corvus Airlines,US,AK,N,Y,N
+7Y,Mann Yadanarpon Airlines,MM,,N,N,N
+DP,Pobeda,RU,,N,N,Y
+DR,Ruili Airlines,CN,,N,N,N
+EL,Ellinair S.A.,GR,,N,N,N
+GM,Chair Airlines,CH,,N,N,N
+GX,Guangxi Beibu Gulf Airlines,CN,,N,N,N
+ID,Batik Air,ID,,N,N,N
+IJ,Spring Airlines Japan,JP,,N,N,Y
+U4,Buddha Air,NP,,N,N,N
+ZL,Regional Express,AU,NS,N,Y,N
+5U,TAG Airlines (T A Guatemaltecos),GT,,N,N,N
+PQ,SKYUP AIRLINES,UA,,N,N,Y
+AQ,9 Air,CN,,N,N,N
+CQ,Coastal Aviation,TZ,,N,N,N
+NL,Amelia International,SI,,N,N,N
+I5,AirAsia India,IN,KA,N,N,Y
+JU,Air Serbia,RS,,N,Y,N
+M8,"Magnum.Air, Inc dba Skyjet",PH,,N,N,N
+QC,Camair-Co,CM,,N,N,N
+QU,Azur Air Ukraine,UA,,N,N,N
+XJ,Thai Air Asia X,TH,,N,N,Y
+I2,Iberia Express,ES,,N,N,N
+DO,Sky High Aviation Services,DO,,N,N,N
+7Q,Elite Airways,US,ME,N,N,N
+2Y,"MY Indo Airlines, PT",ID,,N,N,N
+N5,Nolinor Aviation,CA,QC,N,N,N
+WZ,Red Wings Airlines,RU,,N,N,N
+RF,Aero k Airlines,KR,,N,N,N
+M4,Poste Air Cargo,IT,,N,N,N
+LK,Lao Skyway Comm Air Trans & charter,LA,,N,N,N
+FT,FlyEgypt,EG,,N,N,Y
+ZP,Paranair,PY,,N,N,N
+J7,AFRIJET,GA,,N,N,N
+H9,Himalaya Airlines,NP,,N,N,N
+GY,Colorful Guizhou Airlines,CN,,N,N,N
+PU,Plus Ultra Lineas Aereas S. A.,ES,,N,N,N
+2B,Albawings,AL,,N,N,N
+8Y,Astro Air Int dba Pan Pacific Airlines,PH,,N,N,N
+2C,SNCF,FR,,N,Y,N
+EO,Pegas Fly,RU,,N,N,N
+9L,AirTanker Services Limited,GB,,N,N,N
+BZ,Blue Bird Airways,GR,,N,N,N
+E2,Eurowings Europe,AT,,N,N,Y
+VE,Easyfly S. A.,CO,,N,N,N
+N6,TCA Airlines,GE,,N,N,N
+5F,Fly One,MD,,N,N,N
+MZ,Amakusa Airlines,JP,,N,N,N
+RS,"Air Seoul, Inc",KR,,N,N,Y
+9X,Southern Airways Express,US,FL,N,N,N
+YG,YTO Cargo Airlines Co. Ltd,CN,,N,N,N
+OW,Skyward Express,KE,,N,N,N
+QN,Skytrans Airlines,AU,QL,N,N,N
+G0,Albatros Airlines,VE,,N,N,N
+II,IBC Airways,US,FL,N,N,N
+T2,MCS Aerocarga de Mexico,MX,,N,N,N
+6W,FlyBosnia,BA,,N,N,N
+BM,Bakhtar Afghan Airline,AF,,N,N,N
+QE,Express Freighters Australia,AU,NS,N,N,N
+7N,MetroJets,US,FL,N,N,N
+8R,Regourd Aviation (dba AMELIA),FR,,N,N,N
+WP,Air Antwerp,BE,,N,N,N
+YR,Scenic Airlines,US,NV,N,Y,N
+R2,Transair Senegal,SN,,N,N,N
+UY,Sky Pearl,SA,,N,N,N
+BF,French Bee,FR,,N,N,Y
+2U,Sun d'Or International Airlines,IL,,N,N,N
+SO,Syphax Airlines,TN,,N,N,N
+8D,FITS Aviation (Pvt) Ltd,LK,,N,N,N
+8W,Fly Always N.V.,SR,,N,N,N
+N3,Vuela El Salvador,SV,,N,N,N
+DH,Norwegian Air Norway AS,NO,,N,N,Y
+AB,KAP.KG Aircompany LLC,KG,,N,N,N
+EE,Regional Jet,EE,,N,N,N
+A6,Air Travel Co. Ltd,CN,,N,N,N
+DI,Norwegian Air UK ltd,GB,,N,N,Y
+KW,LLC Air Company AeroStan,KG,,N,N,N
+F5,Aerotranscargo,MD,,N,N,N
+OV,SalamAir,OM,,N,N,Y
+GO,ULS Airlines Cargo,TR,,N,N,N
+IF,Fly Baghdad Airlines,IQ,,N,N,N
+K9,"Kalitta Charters, L.L.C.",US,MI,N,N,N
+KG,Key Lime Air dba Denver Air Connection,US,CO,N,N,N
+O7,Omni-Blu,NG,,N,N,N
+N4,Nord Wind,RU,,N,N,N
+S5,Abakan Air LLC,RU,,N,N,N
+ZG,ZIPAIR Tokyo Inc.,JP,,N,N,Y
+P3,Cargologicair,GB,,N,N,N
+RL,Royal Flight Airlines,RU,,N,N,N
+T4,Rhoades Aviation Inc.,US,IN,N,N,N
+U7,Uniworld Air Cargo Corp.,PA,,N,N,N
+UV,"Universal Airways, Inc.",US,TX,N,N,N
+V2,Avialeasing Aviation Co,UZ,,N,N,N
+VM,Max Air,NG,,N,N,N
+Y2,Air Century,DO,,N,N,N
+XM,Zimex Aviation,CH,,N,N,N
+7A,Express Air Cargo,TN,,N,N,N
+OF,Overland Airways,NG,,N,N,N
+RM,Aircompany Armenia,AM,,N,N,N
+GI,"Guangdong Longhao Airlines Co., Ltd",CN,,N,N,N
+ER,Serene Air,PK,,N,N,N
+CY,Cyprus Airways,CY,,N,N,N
+MV,Air Mediterranean,GR,,N,N,N
+EF,Aerolinea Del Caribe - Peru S.A.C.,PE,,N,N,N
+3L,Air Arabia Abu Dhabi,AE,,N,N,Y
+4J,JetAir Caribbean,CW,,N,N,N
+3B,Transportes Interilhas de Cabo Verde,CV,,N,N,N
+Q6,Volaris Costa Rica,CR,,N,N,Y
+AN,"Advanced Air, LLC",US,CA,N,N,N
+T9,Turpial Airlines,VE,,N,N,N
+N2,Aero Contractors Company of Nigeria,NG,,N,N,N
+OJ,NyxAir OU,EE,,N,N,N
+LQ,Lanmei Airlines,KH,,N,N,Y
+JO,Jonika Airlines,UA,,N,N,N
+WL,World Atlantic Airlines,US,FL,N,N,N
+M3,LATAM Cargo Brasil,BR,SP,N,N,N
+F3,flyadeal,SA,,N,N,Y
+BH,Bismillah Airlines,BD,,N,N,N
+GE,Global Aviation Operations,ZA,,N,N,N
+SR,SundAir,DE,,N,N,N
+LB,Bul Air Ltd.,BG,,N,N,N
+7M,MAP Linhas Aereas,BR,AM,N,N,N
+WO,Swoop,CA,AB,N,N,Y
+WV,Westair Aviation,NA,,N,N,N
+US,Puerto Rico International Airlines,PR,,N,N,N
+WD,Modern Transtport Aereo de Caarga SA,BR,AC,N,N,N
+DN,Norwegian Air Argentina,AR,BA,N,N,N
+C8,Cronosair,GQ,,N,N,N
+MJ,"Myway Airlines Co.,LTD",GE,,N,N,N
+NG,NOVAIR Limited Liability Company,AM,,N,N,N
+Q4,"Euroairlines, S.L.",ES,,N,N,N
+KF,Air Belgium,BE,,N,N,N
+MG,EZNIS AIRWAYS LLC,MN,,N,N,N
+EC,easyJet Europe Airline,AT,,N,N,Y
+7ZF,Safari Express Cargo,KE,,Y,N,N
+IH,Southern Sky Airlines JSC,KZ,,N,N,N
+UF,Petroleum Air Services,EG,,N,N,N
+QH,Bamboo Airways,VN,,N,N,N
+VU,Vietravel Airlines,VN,,N,N,N
+4F,Freedom Airline Express,KE,,N,N,N
+JM,Jambojet,KE,,N,N,Y
+4A,ATSA Airlines,PE,,N,N,N
+6A,Armenia Airways Aircompany CJSC,AM,,N,N,N
+R9,Trans Executive Airlines of Hawaii,US,HI,N,N,N
+Q8,Trans Air Congo,CG,,N,Y,N
+1I,"NetJets Aviation, Inc.",US,OH,N,N,N
+E4,Enter Air Spolka z.o.o.,PL,,N,N,N
+IS,Sepehran Airlines,IR,,N,N,N
+XF,Mongolian Airways Cargo,MN,,N,N,N
+DQ,Alexandria Airlines,EG,,N,N,N
+VO,Voyage Air,BG,,N,N,N
+PH,Pionair Australia Pty Ltd,AU,NS,N,N,N
+T8,CA Terra Avia SRL,MD,,N,N,N
+DW,Great Dane Airlines,DK,,N,N,N
+2T,Turbo Megha Airways,IN,TG,N,N,N
+L9,Lumiwings,GR,,N,N,N
+UD,UR Airlines,IQ,,N,N,N
+F6,Fly2Sky,BG,,N,N,N
+7Z,EZAir,NL,,N,N,N
+QI,Ibom Air,NG,,N,N,N
+SX,flyGTA Airlines,CA,ON,N,N,N
+BE,Flybe,GB,,N,Y,N
+4H,Hi Air,KR,,N,N,N
+UR,Uganda Airlines,UG,,N,N,N
+ZO,Colorful Yunnan General Aviation,CN,,N,N,Y
+F7,LTD I Fly,RU,,N,N,N
+7N7,My Jet Xpress,MY,,Y,N,N
+E3,Ego Airways S.p.A,IT,,N,N,N
+WJ,Jetsmart Airlines S.A.,AR,SE,N,N,N
+LC,Skyway CR,CR,,N,N,N
+OT,Tchadia Airlines,TD,,N,N,N
+5Q,Holiday Europe,BG,,N,N,Y
+JX,STARLUX Airlines,TW,,N,N,N
+6G,Go2Sky,SK,,N,N,N
+0A,Asta Linhas Aereas Ltda,BR,MT,N,N,N
+RW,Royal Air Charter Services Inc,PH,,N,N,N
+D4,Airline GEO SKY LLC,GE,,N,N,N
+4V,Fly Gangwon,KR,,N,N,Y
+A2,Anima Wings Aviation,RO,,N,N,N
+6M,Maximus Airlines,UA,,N,N,N
+KD,Western Global Airlines LLC,US,FL,N,N,N
+VF,Fly Armenia Airways,AM,,N,N,N
+IG,Air Italy S.p.A.,IT,,N,Y,N
+ML,Sky Mali,ML,,N,N,N
+R8,Puer General Aviation,CN,,N,N,N
+YJ,Asian Express Aviation,CN,,N,N,N
+LW,Lauda Europe,MT,,N,N,N
+IV,GP Aviation Ltd,BG,,N,N,N
+SB,Air Caledonie International,NC,,N,Y,N
+5W,Wizz Air Abu Dhabi,AE,,N,N,N
+6T,Longtail Aviation International,BM,,N,N,N
+NB,Berniq Airways,LY,,N,N,N
+D6,Servicios Aereos GECA S.A.,DO,,N,N,N
+RT,UVT aero,RU,,N,N,N
+OP,PassionAir,GH,,N,N,N
+9S,Southern Air Inc.,US,KY,N,N,N
+CC,CM Airlines,HN,,N,N,N
+2W,"World 2 Fly, S.L",ES,,N,N,N
+8I,ITA,BR,SP,N,N,N
+R5,Jordan Aviation,JO,,N,N,N
+M2,MHS Aviation,DE,,N,N,N
+4Y,EW Discover GmbH,DE,,N,N,N
+LI,ETF Airways d.o.o,HR,,N,N,N
+GH,Galistair Trading Ltd,MT,,N,N,N
+BN,Luxwing Ltd,MT,,N,N,N
+HN,UAB Heston Airlines JSC Heston Airl,LT,,N,N,N
+WW,M Jets International,MY,,N,N,N
+YP,Air Premia Inc.,KR,,N,N,N
+HH,LLC Qanot Sha,UZ,,N,N,N
+BIC,"Alphaland Aviation, Inc",PH,,N,N,N
+TMW,Trans Maldivian,MV,,N,N,N
+KAB,Air Pohang,KR,,N,N,N
+LLC,Small Planet Airlines,LT,,N,N,N
+RIH,Rahila Air,LY,,N,N,N
+TAK,Transfrican Air Ltd.,KE,,N,N,N
+FGG,flyglobal charter Sdn. Bhd.,MY,,N,N,N
+ALC,American Linehaul Corporation,US,NJ,N,N,N
+BMR,BMI Regional,GB,,N,N,N
+BSK,Miami Air,US,FL,N,N,N
+CNK,Sunwest Aviation,CA,AB,N,N,N
+TUY,Linea Turistica Aerotuy,VE,,N,N,N
+FAT,Farnair Switzerland AG,CH,,N,N,N
+IOS,Isles of Scilly Skybus,GB,,N,N,N
+LTR,Lufttransport A/S,NO,,N,N,N
+LYD,Lydd Air,GB,,N,N,N
+NIS,La Costena,NI,,N,N,N
+OPN,Air Open Sky,US,MD,N,N,N
+PTI,Privatair,CH,,N,N,N
+QNZ,Jetconnect,NZ,,N,N,N
+RGN,Cygnus Air,ES,,N,N,N
+RHL,Air Archipels,PF,,N,N,N
+RNX,1time,ZA,,N,N,Y
+RSE,SNAS Aviation,SA,,N,N,N
+SOP,Solinair,SI,,N,N,N
+SSQ,Sunstate Airlines,AU,QL,N,N,N
+SXG,"Sterling Transportation, Inc.",US,CA,N,N,N
+TAH,Air Moorea,PF,,N,N,N
+TOM,TUI Airways,GB,,N,N,N
+TRD,Trans Island Air,BB,,N,N,N
+TTL,Total Linhas Aereas,BR,MG,N,N,N
+VAS,Atran,RU,,N,N,N
+WEW,Express Air,CA,SK,N,N,N
+WIG,Wiggins Airways,US,MA,N,N,N
+GBJ,Wisdom Airways,TH,,N,N,N
+AGV,Air Glaciers,CH,,N,N,N
+AAF,Aigle Azur,FR,,N,Y,N
+ABV,Antrak Air,GH,,N,Y,N
+AIJ,Interjet,MX,,N,Y,Y
+AUT,Austral,AR,BA,N,Y,N
+BHP,Belair Airlines,CH,,N,Y,N
+BLF,Blue1,FI,,N,Y,N
+CHQ,"Chautauqua Airlines, Inc.",US,IN,N,Y,N
+CIM,Cimber A/S,DK,,N,Y,N
+CJC,Colgan Air,US,VA,N,Y,N
+EGU,Eagle Air,UG,,N,Y,N
+EXY,South African Express Airways,ZA,,N,Y,N
+FDM,"Freedom Airlines, Inc",US,AZ,N,Y,N
+FEA,Far Eastern Air Transport,TW,,N,Y,N
+FTA,Frontier Flying Service,US,AK,N,Y,N
+GLA,Great Lakes Airlines,US,MN,N,Y,N
+HDA,Cathay Dragon,HK,,N,Y,N
+INC,Insel Air,CW,,N,Y,N
+ISV,Islena Airlines,HN,,N,Y,N
+JAB,Air Bagan,MM,,N,Y,N
+JAI,Jet Airways (India) Ltd,IN,,N,Y,N
+JBA,Helijet International Inc,CA,BC,N,Y,N
+KBA,Kenn Borek Air,CA,AB,N,Y,N
+LAL,Air Labrador,CA,NL,N,Y,N
+LGW,Luftfahrt Gesellschaft Walter,DE,,N,Y,N
+LIA,LIAT (1974),AG,,N,Y,N
+LID,Alidaunia,IT,,N,Y,N
+LYN,Air Kyrgyzstan,KG,,N,Y,N
+MGX,Montenegro Airlines,ME,,N,Y,N
+MNA,Merpati Nusantara Airlines,ID,,N,Y,N
+CWM,Air Marshall Islands,MH,,N,Y,N
+NMB,Air Namibia,NA,,N,Y,N
+NRR,NatureAir,CR,,N,Y,N
+OCA,Aserca Airlines,VE,,N,Y,N
+OEA,Orient Thai Airlines,TH,,N,Y,N
+ONE,Avianca Brasil,BR,SP,N,Y,N
+OZW,Skywest Airlines,AU,WA,N,Y,N
+NLA,PenAir,US,AK,N,Y,N
+RSI,Air Sunshine,US,FL,N,Y,N
+SAI,Shaheen Air International,PK,,N,Y,N
+SFW,Safi Airways,AF,,N,Y,N
+JLL,JetKonnect,IN,,N,Y,Y
+SNB,Sterling,DK,,N,Y,N
+SOV,Saratov Airlines,RU,,N,Y,N
+FQA,Quikjet Cargo Airlines,IN,,N,N,N
+TAE,TAME Linea Aerea del Ecuador,EC,,N,Y,N
+TCF,Shuttle America,US,CT,N,Y,N
+TNA,Transasia Airways,TW,,N,Y,N
+TPU,Avianca Peru S.A.,PE,,N,Y,N
+TRS,AirTran Airways,US,FL,N,Y,Y
+UKM,Ukrainian-Mediterranean Airlines,UA,,N,Y,N
+VRD,Virgin America,US,CA,N,Y,Y
+WSG,Wasaya Airways LP,CA,ON,N,Y,N
+FXX,Felix Airways,YE,,N,N,N
+JTG,JetTime,DK,,N,N,N
+OLY,Olympus Airways,GR,,N,N,N
+FNA,Norlandair,IS,,N,N,N
+GHN,Air Ghana,GH,,N,N,N
+IIA,Inter Iles Air,KM,,N,N,N
+AJA,Afghan Jet International,AF,,N,N,N
+AKN,Alkan Air,CA,YT,N,N,N
+BOS,LEVEL operated by OpenSkies (LV),GB,,N,N,N
+HGB,Greater Bay Airlines,CN,,N,N,N
+ERF,Erofey Limited Liability Company,RU,,N,N,N
+KRU,Karun Airlines,IR,,N,N,N
+GMT,Magnicharters,MX,,N,N,N
+LLX,Small Planet Airlines GmbH,DE,,N,N,N
+AFD,Unity Air (Ghana),GH,,N,N,N
+QLK,QANTASLINK,AU,NS,N,N,N
+FYN,PT. Flyindo Aviasi Nusantara,ID,,N,N,N
+ABT,Air Taxi Benin,BJ,,N,N,N
+DKN,Air Deccan,IN,KA,N,N,N
+HOG,Mahogany Air,ZM,,N,N,N
+FVJ,ValueJet,NG,,N,N,N
+LBQ,Quest Air,US,VA,N,N,N
+GJT,GetJet Airlines,LT,,N,N,N
+ALV,Aeropostal Alas de Venezuela S.A.,VE,,N,N,N
+MDO,Mediterranean Aviation Company Ltd,MT,,N,N,N
+AYS,Madagasikara Airways,MG,,N,N,N
+PSW,Pskovavia Airlines Company,RU,,N,N,N
+DTO,AERODESIERTO SA,CL,,N,N,N
+VRH,Varesh Airlines,IR,,N,N,N
+NWC,Aircompany North-West LTD,RU,,N,N,N
+QJE,Cobham Aviation Services Australia,AU,SA,N,N,N
+NWA,Niger Airways SA,NE,,N,N,N
+ZOM,Zoom Air,IN,DL,N,N,N
+WAN,Wataniya Airways,KW,,N,N,N
+RSB,Rubystar Airways,BY,,N,N,N
+AMB,Deutsche Rettungsflugwacht,DE,,N,N,N
+CRN,Aerocaribbean,CU,,N,N,N
+MYI,"Mayair, S.A. de C.V.",MX,,N,N,N
+NYS,Ulendo Airlink,MW,,N,N,N
+OLS,SOL S.A Lineas Aereas,AR,SF,N,N,N
+BFL,Buffalo Airways,CA,NT,N,N,N
+ATM,Airlines of Tasmania,AU,TS,N,N,N
+LUR,Atlantis European Airways,AM,,N,N,N
+ROM,"Encompass Aviation, LLC",US,NJ,N,N,N
+NOV,Nova Airways,SD,,N,N,N
+RFJ,Royal Falcon,JO,,N,N,N
+TBN,Taban Air,IR,,N,N,N
+WOW,WOW Air,IS,,N,Y,Y
+ESJ,Eastern SkyJets,AE,,N,N,N
+DCT,Directflight,GB,,N,N,N
+AUZ,Amaszonas Uruguay,UY,,N,N,N
+GMI,Germania,DE,,N,N,N
+WSF,Westair Benin,BJ,,N,N,N
+TBZ,ATA Airlines,IR,,N,N,N
+OTT,OTT Airlines,CN,,N,N,N
+EAK,Euro-Asia Air,KZ,,N,N,N
+HBR,Hebridean Air Services,GB,,N,N,N
+IZG,Zagros Airlines,IR,,N,N,N
+AMV,AMC Airlines,EG,,N,N,N
+PRO,Propair,CA,QC,N,N,N
+TWC,Canadian Airways Congo,CG,,N,N,N
+BRP,Aerobratsk,RU,,N,N,N
+AZI,Astra Airlines,GR,,N,N,N
+KND,Kan Air,TH,,N,N,N
+NAL,Northway Aviation Ltd,CA,MB,N,N,N
+CND,Corendon DUTCH Airlines,NL,,N,N,N
+PEA,Pan Europeenne Air Service,FR,,N,N,N
+PNP,Pineapple Air,BS,,N,N,N
+EHN,East Horizon Airlines,AF,,N,N,N
+VUR,VIP S.A.,EC,,N,Y,N
+AWM,Asian Wings Airways,MM,,N,N,N
+VIT,PT Aviastar Mandiri,ID,,N,N,N
+CPN,Caspian Airlines,IR,,N,N,N
+BEK,Bek Air,KZ,,N,N,N
+AWN,Air Niamey,NE,,N,N,N
+OAE,Omni Air International,US,OK,N,N,N
+FRN,First Nation Airways,NG,,N,N,N
+RER,Aeroregional,EC,,N,N,N
+AMY,Air Mandalay Ltd,MM,,N,Y,N
+RLT,REAL Tonga,TO,,N,N,N
+APP,Aeroperlas,PA,,N,N,N
+CCO,China Air Cargo,CN,,N,N,N
+PVG,Privilege,ES,,N,N,N
+VGO,NewGen Airways,TH,,N,N,N
+RVP,Sevenair (Portugal),PT,,N,N,N
+TWI,Tailwind Hava Yollari A.S,TR,,N,N,N
+PFY,Pel-Air,AU,NS,N,N,N
+SGB,"Songbird Airways, Inc.",US,FL,N,N,N
+OTJ,TEN AIRWAYS,RO,,N,N,N
+CPZ,"Compass Airlines, Inc.",US,MN,N,Y,N
+FJM,Fly Jamaica,JM,,N,N,N
+SBM,SkyBahamas,BS,,N,N,N
+SLT,Starlight Airlines,AE,,N,N,N
+XLF,XL Airways France,FR,,N,Y,N
+FZW,flyafrica - Zimbabwe,ZW,,N,N,Y
+UJX,AtlasGlobal UA,UA,,N,N,N
+NLU,Insel Air Aruba,AW,,N,N,N
+MEG,Mega Global Air Services (Maldives),MV,,N,N,N
+PVN,Peruvian Airlines,PE,,N,N,N
+RGE,Regent Airways,BD,,N,N,N
+SXD,SunExpress Deutschland GmbH,DE,,N,N,Y
+ESR,Eastar Jet,KR,,N,N,Y
+AWC,Titan Airways,GB,,N,N,N
+AAQ,Asia Atlantic Airlines,TH,,N,N,N
+KKK,AtlasGlobal,TR,,N,Y,N
+KIS,Kish Air,IR,,N,Y,N
+SQM,Siam Air Transport Company Limited,TH,,N,N,N
+MRJ,Meraj Air,IR,,N,N,N
+NEA,New England Airlines Inc,US,RI,N,N,N
+PPL,Air Pegasus Pvt. Ltd.,IN,KA,N,N,N
+IDX,Indonesia Airasia X,ID,,N,N,Y
+JAA,Jet Asia Airways,TH,,N,N,N
+HHK,Sky Shuttle,HK,,N,N,N
+FMI,FMI Air,MM,,N,N,N
+NCT,NokScoot Airlines Co Ltd,TH,,N,N,Y
+THU,Thunder Airlines,CA,ON,N,N,N
+KDC,KD Air Corporation,CA,BC,N,N,N
+NWG,Airwing,NO,,N,N,N
+NTH,Hokkaido Air System,JP,,N,N,N
+HTK,"Ningxia Cargo Airlines CO., LTD.",CN,,N,N,N
+GUM,Gum Air,SR,,N,N,N
+SSJ,Krasavia,RU,,N,N,N
+LLP,Small Planet Airlines,PL,,N,N,N
+ALD,Air Leisure,EG,,N,N,Y
+SNR,Sunair Aviation,SD,,N,N,N
+PWD,PAWA Dominicana,DO,,N,N,N
+SGQ,Saudi Gulf Airlines,SA,,N,N,N
+ORG,SUE Orenburg Region Intl Airport,RU,,N,N,N
+PAG,Perimeter Aviation Ltd,CA,MB,N,N,N
+BLX,TUIfly Nordic AB,SE,,N,N,N
+LCB,LC Peru,PE,,N,N,N
+LEP,Air Costa,IN,,N,N,N
+EPR,Express Airways,DE,,N,N,N
+JON,JOON,FR,,N,N,N
+CTB,Thomas Cook Airlines Balearics,ES,,N,N,N
+FLZ,Flightlink Air Charters,TZ,,N,N,N
+FDK,Flydamas,SY,,N,N,N
+MEM,ICAR - International Cargo Airline,FR,,N,N,N
+SLD,Silver Air,CZ,,N,N,N
+MFG,Fly Mid Africa,GM,,N,N,N
+TCX,Thomas Cook Airlines,GB,,N,N,N
+XLL,Air Excel,TZ,,N,N,N
+BYK,SkyBus Airlines,KZ,,N,N,N
+VNE,RAVSA Venezolana,VE,,N,N,N
+CAT,Copenhagen Air Taxi,DK,,N,N,N
+SOR,SonAir,AO,,N,N,N
+TEZ,Tez Jet Airlines,KG,,N,N,N
+CPT,Corporate Air,US,MT,N,N,N
+FHM,Freebird Airlines Europe LTD,MT,,N,N,N
+WLB,Wings of Lebanon,LB,,N,N,N
+EMU,East Asia Airlines,MO,,N,N,N
+KEA,Korea Express Airlines,KR,,N,N,N
+KTB,Transaviabaltika,LT,,N,N,N
+KAI,KaiserAir,US,CA,N,N,N
+BGN,Air Inter Transport Co. Ltd,TH,,N,N,N
+CCC,Air Cargo Global,SK,,N,N,N
+DAV,Dornier Aviation Nigeria,NG,,N,N,N
+DWI,Dominican Wings S.A.,DO,,N,N,N
+XBO,"Baseops International, Inc.",US,TX,N,N,N
+CUO,Aerocuahonte SA de CV,MX,,N,N,N
+IFA,FAI rent-a-jet Aktiengesellschaft,DE,,N,N,N
+DNM,Denim Air,NL,,N,N,N
+FEI,Eagle Air Iceland,IS,,N,N,N
+BTZ,Bristow U.S. LLC,US,LA,N,N,N
+EAN,Skypower Express Airways,NG,,N,N,N
+PHA,"Phoenix Air Group, Inc",US,GA,N,N,N
+SUV,Sundance Air Venezuela,VE,,N,N,N
+RCT,Skyview Airways Co dba Skyview,TH,,N,N,N
+FLB,Fly Art,TD,,N,N,N
+NVR,Nova Airlines,SE,,N,N,N
+KRN,Karinou Airlines,CF,,N,N,N
+CNO,SAS Norway,NO,,N,Y,N
+SWQ,Swift Air L.L.C.,US,AZ,N,N,N
+ARC,Air Routing International L.P.,US,TX,N,N,N
+JCT,"Jet Charter, Inc",US,NJ,N,N,N
+KZH,Zhezair,KZ,,N,N,N
+RMK,Simrik Airlines,NP,,N,N,N
+MSX,EgyptAir Cargo,EG,,N,N,N
+JUB,Jubba Airways,SO,,N,N,N
+RLY,Air Loyaute,FR,,N,N,N
+RRV,Mombassa Air Safari,KE,,N,N,N
+SBK,Blue Sky Aviation,KE,,N,N,N
+WAJ,AirAsia Japan,JP,,N,N,Y
+BGT,Bergen Air Transport,NO,,N,N,N
+RYW,Royal Wings,JO,,N,N,N
+ERN,Ernest Airline,IT,,N,N,N
+IAX,Island Express Air Inc,CA,BC,N,N,N
+DCP,Air Direct Connect Ltd,KE,,N,N,N
+ANC,Avianca Argentina,AR,BA,N,N,N
+HTY,Helity,ES,,N,N,N
+LSJ,Air Liaison,CA,QC,N,N,N
+UGS,SKA Air and Logistics (U),UG,,N,N,N
+WLM,VLM Airlines D.D.,SI,,N,N,N
+AZM,Azman Air Services,NG,,N,N,N
+SLR,Silverstone Air Services,KE,,N,N,N
+GWR,Aura Airlines,ES,,N,N,N
+SKV,Sky Regional,CA,ON,N,N,N
+FLJ,Surf Air Europe,GB,,N,N,N
+MSB,Air Stork Srl,MD,,N,N,N
+BOB,Powdair,IE,,N,N,N
+TRH,Turuhan Airlines,RU,,N,N,N
+ARN,Aeronexus Corporate (pty) LTD,ZA,,N,N,N
+AUN,FlyServus,AT,,N,N,N
+LKH,Small Planet Airlines,KH,,N,N,N
+SSV,ANDA AIR LIMITED,UA,,N,N,N
+DAI,Dena Airways,IR,,N,N,N
+LDM,LAUDAMOTION GMBH,AT,,N,N,Y
+AMS,ASTA - South America Air Taxi,BR,MT,N,N,N
+QCL,Air Class Lineas Aereas,UY,,N,N,N
+IRV,SAFFAT AIR,IR,,N,N,N
+AXY,Air X Charter Ltd,MT,,N,N,N
+JWX,Jetways Airlines Limited,KE,,N,N,N
+UKL,Ukraine Air Alliance,UA,,N,N,N
+BGA,Airbus Transport International,FR,,N,N,N
+MTL,RAF-AVIA,LV,,N,N,N
+VLM,VLM Airlines,BE,,N,N,N
+PNX,AIS Airlines,NL,,N,N,N
+SDG,Star Air,IN,KA,N,N,N
+PTK,Petropavlovsk-Kamchatsky Air,RU,,N,N,N
+VGV,Vologda Air Enterprise,RU,,N,N,N
+DYN,"Aerodynamics, Inc",US,GA,N,N,N
+NQN,Grupo LASA S.R.L.,AR,BA,N,N,N
+CNT,Connect Linhas Aereas,BR,PR,N,N,N
+ONS,ONE Airlines,CL,,N,N,N
+PWY,Yourways,DE,,N,N,N
+SGU,Sol del Paraguay,PY,,N,N,N
+TUB,True Aviation Limited,BD,,N,N,N
+WOL,Wings Aviation Limited,GY,,N,N,N
+VCY,OCL Barbados,VC,,N,N,N
+TXZ,THAI EXPRESS,TH,,N,N,N
+KGK,SKY KG Airlines,KG,,N,N,N
+CIG,Air company Sirius-Aero Ltd.,RU,,N,N,N
+SUI,Schweizer Luftwaffe,CH,,N,N,N
+NAE,National Airways,ET,,N,N,N
+GAA,Global Africa Aviation,ZW,,N,N,N
+ACH,Africa's Connection STP,ST,,N,N,N
+HAI,Hai Au Aviation,VN,,N,N,N
+OTF,Orange 2 Fly,GR,,N,N,N
+CAD,PT Cardig Air,ID,,N,N,N
+CAD,PT Cardig Air,ID,,N,N,N
+MHO,Mokulele Airlines,US,HI,N,N,N
+CST,Shoreline Aviation,US,CT,N,N,N
+RLI,Reliant Air Charter,US,CT,N,N,N
+TGY,Trans Guyana Airways,GY,,N,N,N
+LNH,Lanhsa Airlines,HN,,N,N,N
+ESS,Thai Eastar Jet,TH,,N,N,Y
+KMW,Kostroma Air Enterprise,RU,,N,N,N
+SKZ,Skyway Enterprises Inc.,US,FL,N,N,N
+SRR,Star Air A/S,DK,,N,N,N
+SEK,Star East Airline S.R.L.,RO,,N,N,N
+XAR,Xpress Air,ID,,N,N,N
+JTU,Zhetysu,KZ,,N,N,N
+CON,ConocoPhillips Aviation Alaska,US,AK,N,N,N
+AJI,"Ameristar Air Cargo, Inc",US,TX,N,N,N
+BAY,Bravo Airways,UA,,N,N,N
+KAM,Sunkar Air LLP,KZ,,N,N,N
+RTU,Aerotucan,MX,,N,N,N
+MTN,Mountain Air Cargo,US,CO,N,N,N
+SQS,Susi air,ID,,N,N,N
+MKB,Mack Air,BW,,N,N,N
+WLD,Wilderness Air,BW,,N,N,N
+SDO,Air Santo Domingo,DO,,N,N,N
+MRR,San Juan Airlines,US,WA,N,N,N
+SVD,SVG Air,VC,,N,N,N
+AML,Air Cargo Malawi,MW,,N,N,N
+AEU,Atlantis Armenian Airlines,AM,,N,Y,N
+AMN,Air Montenegro,ME,,N,N,N
+CIL,CIAF LEASING,EG,,N,N,N
+PGN,Tailwind Air,US,NY,N,N,N
