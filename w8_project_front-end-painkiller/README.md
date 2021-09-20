@@ -9,7 +9,7 @@ Authors: [Ayaan Hassan](https://github.com/AyaanaHassan), [Sid Nair](https://git
 ## 
 
 
-> Choose your artist and let us source flights and hotels for your dream getaway!  https://vibezz-chaser.netlify.app/
+> Choose your artist and let us source flights and hotels for your dream getaway!  https://vibezz-chasers.netlify.app/
 
 <br>
 
