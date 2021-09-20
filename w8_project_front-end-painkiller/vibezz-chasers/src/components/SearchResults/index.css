@@ -1,3 +1,8 @@
+/* ALL IMAGES */
+img {
+  margin-top: 10px;
+  height: 250px;
+}
 /* RESULTS TITLE */
 .results-title {
   display: flex;
