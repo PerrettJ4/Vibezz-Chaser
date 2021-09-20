@@ -1,0 +1,114 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lato&family=Limelight&family=Roboto&family=Stalinist+One&family=Volkhov:ital@1&display=swap");
+:root {
+  --background-dark: #282c34;
+  --background-light: white;
+}
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.2s linear;
+}
+body[color-scheme="dark"] {
+  background-color: var(--background-dark);
+  color: white;
+}
+body[color-scheme="light"] {
+  background-color: var(--background-light);
+  color: black;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+/* Nav bar CSS */
+#logo {
+  height: 50px;
+  width: auto;
+  padding-left: 2%;
+}
+#logo-img {
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+}
+
+#nav-heading {
+  font-size: 47px;
+  color: #23201f;
+  margin: 0px;
+  /* text-shadow: 2px 2px #158001; */
+  /* font-family: "Black Ops One", cursive; */
+  font-family: "Limelight", cursive;
+  /* font-family: "Stalinist One", cursive; */
+}
+#heading-div {
+  margin-top: 5px;
+  height: 50px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  margin-left: 2px;
+  margin-right: 65%;
+}
+nav {
+  background-color: #dddddd;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+nav a {
+  font-size: 20px;
+  margin: 0px;
+  color: black;
+  padding: 8px;
+  background-color: #dddddd;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  vertical-align: center;
+  /* font-family: "Roboto", sans-serif; */
+}
+nav a:hover {
+  background-color: #158001;
+  color: white;
+}
+
+/* TOGGLE SWITCH */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+  background-color: rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  transition: all 0.3s;
+}
+
+.switch:after {
+  content: "";
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  border-radius: 18px;
+  background-color: white;
+  top: 1px;
+  left: 1px;
+  transition: all 0.3s;
+}
+
+input[type="checkbox"]:checked + .switch:after {
+  transform: translateX(20px);
+}
+
+input[type="checkbox"]:checked + .switch {
+  background-color: #7983ff;
+}
+
+.offscreen {
+  position: absolute;
+  left: -9999px;
+}

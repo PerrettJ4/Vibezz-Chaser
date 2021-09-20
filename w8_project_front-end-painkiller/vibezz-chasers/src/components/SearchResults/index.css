@@ -1,0 +1,84 @@
+/* RESULTS TITLE */
+.results-title {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  font-size: 36px;
+  vertical-align: middle;
+  padding-left: 100px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+#space-filler1 {
+  display: none;
+}
+.artist-header-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.artist-header {
+  text-align: center;
+}
+.artist-image-div,
+.artist-header-div {
+  margin-left: 100px;
+}
+.artist-image {
+  transform: translateX(40px);
+  border-radius: 20px;
+  box-shadow: 0 0 20px #81e070;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  vertical-align: middle;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+.artist-image:hover {
+  transition-duration: 0.5s;
+  box-shadow: 0 0 35px #81e070;
+}
+/* THE RESULTS */
+.results,
+.no-flights {
+  background-color: #66999b;
+  border: 5px solid #e7efc5;
+  /* border-radius: 1%; */
+  padding: 2%;
+  margin: 2%;
+  width: 91.5%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.single-tour {
+  display: flex;
+  flex-direction: column;
+}
+
+/* HOTELS & LANDMARKS */
+.extras {
+  display: none;
+  flex-direction: row;
+  /* background-color: #66999b; */
+  /* border: 5px solid #e7efc5; */
+  border-radius: 5%;
+  padding: 2%;
+  margin: 2%;
+  /* width: fit-content; */
+}
+
+/* NO FLIGHTS */
+.sorry-div {
+  display: block;
+  margin-left: 200px;
+  margin-top: 100px;
+}
+.sorry {
+  text-align: left;
+  font-size: 30px;
+}

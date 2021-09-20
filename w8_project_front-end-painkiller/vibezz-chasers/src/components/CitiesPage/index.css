@@ -1,0 +1,19 @@
+.CitiesPage {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 200px 450px 450px 300px;
+  grid-template-areas: "header header header" "a b c" "d e f" "footer footer footer";
+  grid-gap: 5%;
+}
+
+.cities-header {
+  grid-area: header;
+}
+.cities-title {
+  margin-top: 100px;
+  margin-left: 155px;
+  font-size: 56px;
+}
+.cities-card img {
+  height: 150px;
+}

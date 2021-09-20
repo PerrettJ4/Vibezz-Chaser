@@ -1,0 +1,51 @@
+.img-div {
+  display: block;
+}
+img {
+  margin-top: 15px;
+  height: 300px;
+}
+
+.card-title :hover {
+  transition-duration: 0.4s;
+  transform: scale(1.1);
+}
+.tile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  text-align: center;
+  align-items: center;
+  height: 400px;
+  width: 400px;
+  margin: auto;
+  overflow-x: clip;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #76d864;
+}
+
+#con:hover {
+  transition-duration: 0.5s;
+  box-shadow: 0 0 35px #81e070;
+}
+
+.tile-container.a,
+.tile-container.d {
+  margin-right: 30px;
+}
+.tile-container.c,
+.tile-container.f {
+  margin-left: 30px;
+}
+
+/* FOR ARTISTS */
+#artist-img {
+  margin-top: 30px;
+}
+/* FOR CITIES IMGS */
+#cities-img {
+  height: 200px;
+}
+.cities-img {
+  margin: 0px;
+}

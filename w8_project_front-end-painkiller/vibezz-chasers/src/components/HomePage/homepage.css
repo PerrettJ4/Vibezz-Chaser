@@ -1,0 +1,96 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Limelight&family=Roboto&family=Stalinist+One&family=Volkhov:ital@1&display=swap"); */
+.HomePage {
+  font-size: calc(10px + 2vmin);
+  text-align: center;
+  align-items: center;
+  display: grid;
+  grid-template-rows: 200px 450px 90px;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-areas: "header header header" "main main main" "footer footer footer";
+}
+
+/* HEADER */
+.homepage-header {
+  grid-area: header;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#homepage-title {
+  margin: 0;
+  padding: 0;
+  font-size: 65px;
+  font-family: "Limelight", cursive;
+}
+#slogan {
+  color: #4fbd3c;
+}
+#slogan-text {
+  margin-bottom: 0;
+}
+#slogan h4 {
+  font-weight: 500;
+  /* font-family: "Roboto", sans-serif; */
+  /* font-family: "Volkhov", serif; */
+}
+
+/* MAIN (LABEL && INPUTS/BUTONS) */
+.homepage-main {
+  grid-area: main;
+  text-align: center;
+}
+label {
+  vertical-align: middle;
+  font-size: 40px;
+}
+#input-container {
+  margin-top: 35px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.submit,
+Input {
+  margin-left: 12px;
+}
+
+/* FOOTER & CONTENT */
+.home-footer {
+  /* background-color: #158001; */
+  grid-area: footer;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  border-top: 2px #158001;
+  border-top-style: solid;
+}
+.home-content-container {
+  display: flex;
+  flex-direction: column;
+  /* border: 2px solid #00a4bd; */
+  padding: 5%;
+  height: 100%;
+  width: 33%;
+  justify-content: center;
+  align-items: center;
+}
+.home-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #158001;
+  padding: 0 10%;
+  height: 100%;
+  width: 80%;
+  text-align: center;
+  min-height: 125px;
+}
+.home-info {
+  font-size: 24px;
+  margin: 0;
+  color: #4fbd3c;
+}

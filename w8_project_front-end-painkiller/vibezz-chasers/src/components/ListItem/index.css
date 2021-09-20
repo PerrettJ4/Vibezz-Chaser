@@ -1,0 +1,50 @@
+.tour-item-container {
+  width: 400px;
+  border: 2px solid #158001;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 30px;
+  margin: 1em 0;
+}
+
+.tour-item {
+  background-color: #ffffff;
+  border-radius: 2%;
+  width: 360px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  color: black;
+  overflow-x: clip;
+}
+/* The Flight thingy majick */
+.the-flight {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.big-line {
+  border-bottom: 1px solid black;
+  width: 100px;
+  height: 1px;
+  height: 50%;
+  margin: 0 10px;
+}
+.city-container {
+  font-weight: 700;
+}
+.span-placement {
+  height: 20px;
+  display: flex;
+}
+
+.tour-package-info-text {
+  margin: 0;
+}

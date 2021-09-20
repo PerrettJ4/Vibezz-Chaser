@@ -1,0 +1,78 @@
+.extras-item {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  border: 2px solid #158001;
+  /* border-radius: 2%; */
+  width: 100%;
+  transform: translate(-23px);
+  justify-content: space-around;
+}
+
+img {
+  overflow-x: clip;
+}
+.selected-hotel,
+.selected-landmark,
+.selected-flight,
+.selected-concert {
+  display: flex;
+  flex-direction: column;
+  height: 350px;
+  text-align: center;
+  justify-content: space-around;
+  color: black;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+/* HOTEL */
+.hotel,
+.landmarkstuff {
+  margin: 0;
+}
+#h4-bob {
+  font-weight: normal;
+  color: black;
+  margin: 0;
+}
+/* FLIGHTS */
+.times {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+#spacer2 {
+  width: 80%;
+  font-weight: bold;
+}
+#my-map {
+  display: grid;
+  height: 250px;
+  width: 250px;
+  border: 2px solid black;
+  grid-template-columns: repeat(360, 0.62px);
+  grid-template-rows: repeat(180, 1.1px);
+}
+#plot1 {
+  background-color: black;
+}
+
+/* CONCERT */
+.concert-header-div {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.concert-stuff {
+  margin: 0;
+}
+#plot1 {
+  /* grid-area: 50/50/56/56; */
+  background-color: blue;
+}
+/* SELECTED FLIGHT */
+/* The Flight thingy majick */
+.city-container {
+  display: grid;
+  color: black;
+}

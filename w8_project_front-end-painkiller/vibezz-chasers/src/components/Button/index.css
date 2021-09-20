@@ -1,0 +1,23 @@
+Button {
+  background-color: #158001;
+  color: white;
+  border-radius: 1px;
+  margin-left: 2px;
+  border: none;
+  padding: 18px 20px;
+  box-shadow: 0 0 20px black;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+Button {
+  transition-duration: 0.4s;
+}
+
+Button:hover {
+  background-color: #045706;
+  border: block;
+  border: 1px white;
+  color: white;
+  transform: scale(1.1);
+}
