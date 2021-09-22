@@ -99,11 +99,15 @@ export default function Hotel({
       </div>
       <div className="selected-flight">
         <div className="the-flight">
-          <div className="city-container">{arrivalCode}</div>
+          <div className="city-container" style={{ color: "red" }}>
+            {arrivalCode}{" "}
+          </div>
           <div className="span-placement">
             <div className="big-line"></div>
           </div>
-          <div className="city-container">{originCode}</div>
+          <div className="city-container" style={{ color: "blue" }}>
+            {originCode}
+          </div>
         </div>
         <div className="times">
           <div className="time"></div>
