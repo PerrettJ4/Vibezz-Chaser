@@ -1,5 +1,9 @@
 import "./hotels.css";
 
+// function map(num) {
+//   return Math.floor(Number(num));
+// }
+
 export default function Hotel({
   hotelName,
   hotelImage,
@@ -27,6 +31,8 @@ export default function Hotel({
   concertEndTime,
   long,
   lat,
+  long2,
+  lat2,
 }) {
   console.log(
     hotelName,
@@ -54,7 +60,9 @@ export default function Hotel({
     concertStartTime,
     concertEndTime,
     long,
-    lat
+    lat,
+    long2,
+    lat2
   );
 
   return (
@@ -103,15 +111,35 @@ export default function Hotel({
           <div id="spacer2">{carrier}</div>
           <div className="time">{arrivalTime}</div>
         </div>
-        <div className="lat-long">{`${lat}${long}`}</div>
+        <div className="lat-long">
+          {lat2} - {long2}
+        </div>
         <div id="my-map">
           <div
             id="plot1"
-
-            // gridColumnStart={newLat}
-            // gridColumnEnd={newLat + 10}
-            // gridRowStart={newLong}
-            // gridRowEnd={newLong + 10}
+            style={{
+              gridArea: `${Math.floor(Number(-lat) + 113)} / ${Math.floor(
+                Number(long) + 180
+              )} / ${Math.floor(Number(-lat) + 116)} / ${Math.floor(
+                Number(long) + 186
+              )}`,
+            }}
+          ></div>
+          <div
+            id="plot2"
+            style={{
+              gridArea: `${Math.floor(Number(-lat2) + 113)} / ${Math.floor(
+                Number(long2) + 180
+              )} / ${Math.floor(Number(-lat2) + 116)} / ${Math.floor(
+                Number(long2) + 186
+              )}`,
+            }}
+          ></div>
+          <div
+            id="plot3"
+            style={{
+              gridArea: `88 / 178 / 92 / 182`,
+            }}
           ></div>
           <div id="item1"></div>
         </div>

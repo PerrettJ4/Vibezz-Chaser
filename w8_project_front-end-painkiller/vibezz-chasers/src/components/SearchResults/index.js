@@ -85,6 +85,8 @@ export default function SearchResults({ query }) {
     x: "",
     y: "",
     z: "",
+    aa: "",
+    bb: "",
   });
 
   function renderHotels(
@@ -113,7 +115,9 @@ export default function SearchResults({ query }) {
     concertStartTime,
     concertEndTime,
     long,
-    lat
+    lat,
+    long2,
+    lat2
   ) {
     console.log("SEARCH RESULTS - HOTEL NAME: ", hotelName);
     setHotel({
@@ -143,6 +147,8 @@ export default function SearchResults({ query }) {
       x: concertEndTime,
       y: long,
       z: lat,
+      aa: long2,
+      bb: lat2,
     });
     console.log("BUTTON CLICKED");
     console.log("hotel", hotel);
@@ -192,13 +198,13 @@ export default function SearchResults({ query }) {
                   handleClick={(e) => {
                     console.log(e);
                     e.nativeEvent.path[3].children[3].style.display = "block";
-                    e.nativeEvent.path[3].children[3].children[0].children[2].children[3].children[0].style.gridArea = `${Math.floor(
-                      Number(tour.airport.lat) + 90
-                    )} / ${Math.floor(
-                      Number(tour.airport.long) + 90
-                    )} / ${Math.floor(
-                      Number(tour.airport.lat) + 92
-                    )} / ${Math.floor(Number(tour.airport.long) + 92)}`;
+                    // e.nativeEvent.path[3].children[3].children[0].children[2].children[3].children[0].style.gridArea = `${Math.floor(
+                    //   Number(tour.airport.lat) + 90
+                    // )} / ${Math.floor(
+                    //   Number(tour.airport.long) + 90
+                    // )} / ${Math.floor(
+                    //   Number(tour.airport.lat) + 92
+                    // )} / ${Math.floor(Number(tour.airport.long) + 92)}`;
                     renderHotels(
                       tour.concert.hotel_name,
                       tour.concert.hotel_imgurl,
@@ -225,7 +231,9 @@ export default function SearchResults({ query }) {
                       tour.concert.starttime,
                       tour.concert.endtime,
                       tour.airport.long,
-                      tour.airport.lat
+                      tour.airport.lat,
+                      tour.airport2.long,
+                      tour.airport2.lat
                     );
                   }}
                 />
@@ -261,6 +269,8 @@ export default function SearchResults({ query }) {
             concertEndTime={hotel.x}
             long={hotel.y}
             lat={hotel.z}
+            long2={hotel.aa}
+            lat2={hotel.bb}
           />
         </div>
         <div className="sorry-div">

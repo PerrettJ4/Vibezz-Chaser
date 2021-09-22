@@ -45,17 +45,6 @@ img {
   width: 80%;
   font-weight: bold;
 }
-#my-map {
-  display: grid;
-  height: 250px;
-  width: 250px;
-  border: 2px solid black;
-  grid-template-columns: repeat(360, 0.62px);
-  grid-template-rows: repeat(180, 1.1px);
-}
-#plot1 {
-  background-color: black;
-}
 
 /* CONCERT */
 .concert-header-div {
@@ -66,9 +55,29 @@ img {
 .concert-stuff {
   margin: 0;
 }
+/* MAP */
+#my-map {
+  display: grid;
+  height: 250px;
+  width: 250px;
+  border: 2px solid black;
+  grid-template-columns: repeat(360, 0.694px);
+  grid-template-rows: repeat(220, 1.383px);
+  background-image: url("https://docs.microsoft.com/en-us/azure/azure-maps/media/zoom-levels-and-tile-grid/world0.png");
+  background-size: cover;
+}
+
 #plot1 {
-  /* grid-area: 50/50/56/56; */
+  background-color: red;
+  border-radius: 100%;
+}
+#plot2 {
   background-color: blue;
+  border-radius: 100%;
+}
+#plot3 {
+  background-color: green;
+  display: none;
 }
 /* SELECTED FLIGHT */
 /* The Flight thingy majick */

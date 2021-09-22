@@ -121,6 +121,14 @@ const PAINKILLERS_MAN = [
       long: "-2.27499",
       city_name: "Manchester",
     },
+    airport2: {
+      id: 2741,
+      port_iata: "DBV",
+      port_name: "Dubrovnik",
+      lat: "42.56138",
+      long: "18.26832",
+      city_name: "Dubrovnik",
+    },
     carrier: {
       id: 298,
       carr_iata: "U2",
@@ -236,6 +244,14 @@ const PAINKILLERS_MAN = [
       long: "-2.27499",
       city_name: "Manchester",
     },
+    airport2: {
+      id: 2741,
+      port_iata: "DBV",
+      port_name: "Dubrovnik",
+      lat: "42.56138",
+      long: "18.26832",
+      city_name: "Dubrovnik",
+    },
     carrier: {
       id: 294,
       carr_iata: "LS",
@@ -283,6 +299,14 @@ const PAINKILLERS_MAN = [
       lat: "53.35361",
       long: "-2.27499",
       city_name: "Manchester",
+    },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
     },
     carrier: {
       data: "N/A",
@@ -394,6 +418,14 @@ const PAINKILLERS_MAN = [
       lat: "53.35361",
       long: "-2.27499",
       city_name: "Manchester",
+    },
+    airport2: {
+      id: 1951,
+      port_iata: "EDI",
+      port_name: "Edinburgh",
+      lat: "55.95",
+      long: "-3.37249",
+      city_name: "Edinburgh",
     },
     carrier: {
       id: 505,
@@ -576,6 +608,14 @@ const PAINKILLERS_MAN = [
       long: "-2.27499",
       city_name: "Manchester",
     },
+    airport2: {
+      id: 1850,
+      port_iata: "CDG",
+      port_name: "Paris Charles de Gaulle Apt",
+      lat: "49.00972",
+      long: "2.54777",
+      city_name: "Paris",
+    },
     carrier: {
       id: 728,
       carr_iata: "G3",
@@ -624,6 +664,14 @@ const PAINKILLERS_MAN = [
       long: "-2.27499",
       city_name: "Manchester",
     },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
+    },
     carrier: {
       data: "N/A",
     },
@@ -661,6 +709,14 @@ const PAINKILLERS_MAN = [
       lat: "53.35361",
       long: "-2.27499",
       city_name: "Manchester",
+    },
+    airport2: {
+      id: 2741,
+      port_iata: "DBV",
+      port_name: "Dubrovnik",
+      lat: "42.56138",
+      long: "18.26832",
+      city_name: "Dubrovnik",
     },
     carrier: {
       data: "N/A",
@@ -703,6 +759,14 @@ const PAINKILLERS_MAN = [
       long: "-2.27499",
       city_name: "Manchester",
     },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
+    },
     carrier: {
       data: "N/A",
     },
@@ -744,6 +808,14 @@ const PAINKILLERS_MAN = [
       long: "-2.27499",
       city_name: "Manchester",
     },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
+    },
     carrier: {
       data: "N/A",
     },
@@ -783,6 +855,14 @@ const PAINKILLERS_MAN = [
       lat: "53.35361",
       long: "-2.27499",
       city_name: "Manchester",
+    },
+    airport2: {
+      id: 1585,
+      port_iata: "PEK",
+      port_name: "Beijing Capital Intl Apt",
+      lat: "40.07999",
+      long: "116.58444",
+      city_name: "Beijing",
     },
     carrier: {
       data: "N/A",
@@ -827,6 +907,14 @@ const NICKLEBACK_EDI = [
       long: "-3.37249",
       city_name: "Edinburgh",
     },
+    airport2: {
+      id: 1585,
+      port_iata: "PEK",
+      port_name: "Beijing Capital Intl Apt",
+      lat: "40.07999",
+      long: "116.58444",
+      city_name: "Beijing",
+    },
     carrier: {
       data: "N/A",
     },
@@ -860,6 +948,14 @@ const NICKLEBACK_EDI = [
     },
     flight: {},
     airport: {
+      id: 1951,
+      port_iata: "EDI",
+      port_name: "Edinburgh",
+      lat: "55.95",
+      long: "-3.37249",
+      city_name: "Edinburgh",
+    },
+    airport2: {
       id: 1951,
       port_iata: "EDI",
       port_name: "Edinburgh",
@@ -1073,6 +1169,14 @@ const NICKLEBACK_EDI = [
       long: "-3.37249",
       city_name: "Edinburgh",
     },
+    airport2: {
+      id: 2068,
+      port_iata: "AMS",
+      port_name: "Schiphol",
+      lat: "52.30805",
+      long: "4.76416",
+      city_name: "Amsterdam",
+    },
     carrier: {
       id: 242,
       carr_iata: "MU",
@@ -1120,6 +1224,14 @@ const NICKLEBACK_EDI = [
       long: "-3.37249",
       city_name: "Edinburgh",
     },
+    airport2: {
+      id: 1585,
+      port_iata: "PEK",
+      port_name: "Beijing Capital Intl Apt",
+      lat: "40.07999",
+      long: "116.58444",
+      city_name: "Beijing",
+    },
     carrier: {
       data: "N/A",
     },
@@ -1161,6 +1273,14 @@ const NICKLEBACK_EDI = [
       long: "-3.37249",
       city_name: "Edinburgh",
     },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
+    },
     carrier: {
       data: "N/A",
     },
@@ -1198,6 +1318,14 @@ const NICKLEBACK_EDI = [
       lat: "55.95",
       long: "-3.37249",
       city_name: "Edinburgh",
+    },
+    airport2: {
+      id: 2741,
+      port_iata: "DBV",
+      port_name: "Dubrovnik",
+      lat: "42.56138",
+      long: "18.26832",
+      city_name: "Dubrovnik",
     },
     carrier: {
       data: "N/A",
@@ -1325,6 +1453,14 @@ const NICKLEBACK_EDI = [
       lat: "55.95",
       long: "-3.37249",
       city_name: "Edinburgh",
+    },
+    airport2: {
+      id: 2068,
+      port_iata: "AMS",
+      port_name: "Schiphol",
+      lat: "52.30805",
+      long: "4.76416",
+      city_name: "Amsterdam",
     },
     carrier: {
       id: 298,
@@ -1460,6 +1596,14 @@ const NICKLEBACK_EDI = [
       long: "-3.37249",
       city_name: "Edinburgh",
     },
+    airport2: {
+      id: 2068,
+      port_iata: "AMS",
+      port_name: "Schiphol",
+      lat: "52.30805",
+      long: "4.76416",
+      city_name: "Amsterdam",
+    },
     carrier: {
       id: 298,
       carr_iata: "U2",
@@ -1594,6 +1738,14 @@ const NICKLEBACK_EDI = [
       long: "-3.37249",
       city_name: "Edinburgh",
     },
+    airport2: {
+      id: 1850,
+      port_iata: "CDG",
+      port_name: "Paris Charles de Gaulle Apt",
+      lat: "49.00972",
+      long: "2.54777",
+      city_name: "Paris",
+    },
     carrier: {
       id: 298,
       carr_iata: "U2",
@@ -1634,6 +1786,14 @@ const NICKLEBACK_EDI = [
     },
     flight: {},
     airport: {
+      id: 1951,
+      port_iata: "EDI",
+      port_name: "Edinburgh",
+      lat: "55.95",
+      long: "-3.37249",
+      city_name: "Edinburgh",
+    },
+    airport2: {
       id: 1951,
       port_iata: "EDI",
       port_name: "Edinburgh",
@@ -1684,6 +1844,14 @@ const WASEEM_PVG = [
       lat: "31.14333",
       long: "121.80527",
       city_name: "Shanghai",
+    },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
     },
     carrier: {
       data: "N/A",
@@ -1788,6 +1956,14 @@ const WASEEM_PVG = [
       lat: "31.14333",
       long: "121.80527",
       city_name: "Shanghai",
+    },
+    airport2: {
+      id: 2068,
+      port_iata: "AMS",
+      port_name: "Schiphol",
+      lat: "52.30805",
+      long: "4.76416",
+      city_name: "Amsterdam",
     },
     carrier: {
       id: 622,
@@ -2004,6 +2180,14 @@ const WASEEM_PVG = [
       long: "121.80527",
       city_name: "Shanghai",
     },
+    airport2: {
+      id: 1585,
+      port_iata: "PEK",
+      port_name: "Beijing Capital Intl Apt",
+      lat: "40.07999",
+      long: "116.58444",
+      city_name: "Beijing",
+    },
     carrier: {
       id: 244,
       carr_iata: "HU",
@@ -2115,6 +2299,14 @@ const WASEEM_PVG = [
       long: "121.80527",
       city_name: "Shanghai",
     },
+    airport2: {
+      id: 2068,
+      port_iata: "AMS",
+      port_name: "Schiphol",
+      lat: "52.30805",
+      long: "4.76416",
+      city_name: "Amsterdam",
+    },
     carrier: {
       id: 238,
       carr_iata: "CA",
@@ -2159,6 +2351,14 @@ const WASEEM_PVG = [
       lat: "31.14333",
       long: "121.80527",
       city_name: "Shanghai",
+    },
+    airport2: {
+      id: 2741,
+      port_iata: "DBV",
+      port_name: "Dubrovnik",
+      lat: "42.56138",
+      long: "18.26832",
+      city_name: "Dubrovnik",
     },
     carrier: {
       data: "N/A",
@@ -2265,6 +2465,14 @@ const WASEEM_PVG = [
       long: "121.80527",
       city_name: "Shanghai",
     },
+    airport2: {
+      id: 1585,
+      port_iata: "PEK",
+      port_name: "Beijing Capital Intl Apt",
+      lat: "40.07999",
+      long: "116.58444",
+      city_name: "Beijing",
+    },
     carrier: {
       id: 530,
       carr_iata: "Y8",
@@ -2311,6 +2519,14 @@ const WASEEM_PVG = [
       lat: "31.14333",
       long: "121.80527",
       city_name: "Shanghai",
+    },
+    airport2: {
+      id: 1951,
+      port_iata: "EDI",
+      port_name: "Edinburgh",
+      lat: "55.95",
+      long: "-3.37249",
+      city_name: "Edinburgh",
     },
     carrier: {
       data: "N/A",
@@ -2508,6 +2724,14 @@ const WASEEM_PVG = [
       lat: "31.14333",
       long: "121.80527",
       city_name: "Shanghai",
+    },
+    airport2: {
+      id: 1585,
+      port_iata: "PEK",
+      port_name: "Beijing Capital Intl Apt",
+      lat: "40.07999",
+      long: "116.58444",
+      city_name: "Beijing",
     },
     carrier: {
       id: 195,
@@ -2719,6 +2943,14 @@ const WASEEM_PVG = [
       long: "121.80527",
       city_name: "Shanghai",
     },
+    airport2: {
+      id: 2068,
+      port_iata: "AMS",
+      port_name: "Schiphol",
+      lat: "52.30805",
+      long: "4.76416",
+      city_name: "Amsterdam",
+    },
     carrier: {
       id: 363,
       carr_iata: "KL",
@@ -2766,6 +2998,14 @@ const WASEEM_PVG = [
       lat: "31.14333",
       long: "121.80527",
       city_name: "Shanghai",
+    },
+    airport2: {
+      id: 173,
+      port_iata: "GIG",
+      port_name: "Rio de Janeiro Galeao-A.C.Jobim Int Apt",
+      lat: "-22.81244",
+      long: "-43.24828",
+      city_name: "Rio de Janeiro",
     },
     carrier: {
       data: "N/A",
