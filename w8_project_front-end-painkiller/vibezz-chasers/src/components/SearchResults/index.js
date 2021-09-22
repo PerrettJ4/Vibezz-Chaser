@@ -3,17 +3,22 @@ import ListItem from "../ListItem";
 import Hotel from "../Hotels";
 import Button from "../Button";
 import { useEffect, useState } from "react";
+import {
+  PAINKILLERS_MAN,
+  NICKLEBACK_EDI,
+  WASEEM_PVG,
+} from "../../libs/saved_data";
 
 // document.querySelector("#plot1").style.gridArea = `${newLat} / ${newLong} / ${
 //   newLat + 2
 // } / ${newLong + 2}`;
 
-const airports = {
-  Birmingham: "BHX",
-  Manchester: "MAN",
-  Edinburgh: "EDI",
-  London: "LHR",
-};
+// const airports = {
+//   Birmingham: "BHX",
+//   Manchester: "MAN",
+//   Edinburgh: "EDI",
+//   London: "LHR",
+// };
 export default function SearchResults({ query }) {
   console.log("Query passing into ListItem: ", query);
   const [tours, setTours] = useState([]);
@@ -21,22 +26,31 @@ export default function SearchResults({ query }) {
   //  https://vibezz-chaser.herokuapp.com
   //  http://localhost:3000/
 
-  console.log("departure airport code", airports[query[1]]);
-  useEffect(() => {
-    fetch(
-      `https://vibezz-chaser.herokuapp.com/concerts?artist=${
-        query[0]
-      }&departureAirport=${airports[query[1]]}`
-    )
-      .then((res) => {
-        return res.json();
-      })
-      .then((data) => {
-        const array = [...data.payload];
-        setTours(array);
-      });
-  }, [query]);
+  // console.log("departure airport code", airports[query[1]]);
+  // useEffect(() => {
+  //   fetch(
+  //     `https://vibezz-chaser.herokuapp.com/concerts?artist=${
+  //       query[0]
+  //     }&departureAirport=${airports[query[1]]}`
+  //   )
+  //     .then((res) => {
+  //       return res.json();
+  //     })
+  //     .then((data) => {
+  //       const array = [...data.payload];
+  //       setTours(array);
+  //     });
+  // }, [query]);
 
+  useEffect(() => {
+    query[0].toLowerCase() === "the painkillers"
+      ? setTours(PAINKILLERS_MAN)
+      : query[0].toLowerCase() === "nickleback"
+      ? setTours(NICKLEBACK_EDI)
+      : query[0].toLowerCase() === "waseem"
+      ? setTours(WASEEM_PVG)
+      : setTours(PAINKILLERS_MAN);
+  }, [query]);
   console.log(tours);
 
   // Filtering/Seperating out concerts which have no flights/have flights
