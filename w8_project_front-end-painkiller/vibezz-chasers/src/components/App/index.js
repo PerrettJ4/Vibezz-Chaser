@@ -20,22 +20,23 @@ function App() {
 
   // Match browser color scheme
   useEffect(() => {
-    if (localStorage.getItem("color-scheme")) {
-      setDark(localStorage.getItem("color-scheme"));
+    const colourScheme = localStorage.getItem("color-scheme");
+    if (colourScheme) {
+      setDark(colourScheme === "dark");
       console.log("LOCAL STORAGE", localStorage.getItem("color-scheme"));
     } else if (
       window.matchMedia &&
       window.matchMedia("(prefers-color-scheme: dark)").matches
     ) {
       setDark(true);
-      console.log("MATCH THEME");
     }
   }, []);
 
   // retain theme choice in loacl storage
   useEffect(() => {
-    document.body.setAttribute("color-scheme", `${dark ? "dark" : "light"}`);
-    localStorage.setItem("color-scheme", `${dark ? true : false}`);
+    const getThemeName = dark ? "dark" : "light";
+    document.body.setAttribute("color-scheme", getThemeName);
+    localStorage.setItem("color-scheme", getThemeName);
   }, [dark]);
   return (
     <Router>

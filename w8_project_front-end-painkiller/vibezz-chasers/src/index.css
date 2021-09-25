@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Lato&family=Limelight&family=Roboto&family=Stalinist+One&family=Volkhov:ital@1&display=swap");
 :root {
   --background-dark: #282c34;
-  --background-light: white;
+  --background-light: whitesmoke;
 }
 body {
   margin: 0;
