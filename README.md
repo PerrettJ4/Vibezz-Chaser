@@ -11,9 +11,14 @@ Authors: [Ayaan Hassan](https://github.com/AyaanaHassan), [Sid Nair](https://git
 
 > Choose your artist and let us source flights and hotels for your dream getaway!  https://vibezz-chasers.netlify.app/
 
+
+
+https://user-images.githubusercontent.com/84506758/135813686-7a342446-9a81-41d5-9263-22dbbb792dfb.mov
+
+
+
 <br>
 
-![content-video](https://github.com/PerrettJ4/w8-Vibezz-Chaser/issues/1#issue-1014840455)
 
 - __Our Aim:__ To provide a stress free platform where music lovers can book flights and hotels for any worldwide concert. 
 <br>
